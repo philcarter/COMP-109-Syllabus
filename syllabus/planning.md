@@ -4,7 +4,7 @@
 [Important](important.html)
 
 # Assignment Planning
-[Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
+[Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
 ## Assignment Descriptions:
 
@@ -52,7 +52,7 @@ Assignments: Late submissions without a granted extension by me will incur a 5% 
 
 Exams and Final Student Project: Any late submissions will be graded with a 0 unless an extension has been granted! 
 
-#### Emergency Extensions 
+## Emergency Extensions
 If, however, life has conspired against you to prevent you from meeting an assignment deadline don't despair. I recognize that you may suffer from a sudden illness or other serious or significant event that is unforeseen and/or unpreventable and which adversely affects your ability to complete an assignment or assessment; in such cases you may request an extension for an assignment without penalty, but you must ask **more than one day** before the assignment is due. 
 
 ```Extension requests on the due date will not be considered!```
