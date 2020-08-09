@@ -1,4 +1,3 @@
-# [COMP-109-35123](http://canvas.sbcc.edu/courses/33499)
 [Course Description](#description) | [Course Objectives](#objectives) | [Student Learning Outcomes](#slo) | [Online Format](#onlineformat) | [Glossary](#glossary)
 
 ## Welcome to Microsoft Excel 2019!
