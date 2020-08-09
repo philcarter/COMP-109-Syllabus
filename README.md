@@ -1,6 +1,6 @@
 [Resources](syllabus/resources.html) |
 [Evaluation](syllabus/evaluation.html) |
-[Assignment](syllabus/assignment.html) |
+[Planning](syllabus/planning.html) |
 [Important](syllabus/important.html)
 
 ## Welcome to Microsoft Excel 2019!
