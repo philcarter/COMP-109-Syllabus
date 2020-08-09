@@ -57,7 +57,11 @@ Although COMP 109 is designed for Excel beginners, you probably should feel some
 
 ## Glossary
 **Canvas** - Learning Mangagement System that SBCC uses to deliver online content
+
 **Cengage** - Textbook publisher that also delivers digital learning tools such as SAM .
+
 **SAM** - Skills Assessment Manager provided by Cengage.
+
 **M01:M12** - Short form for textbook Excel MODULES such as Excel Module 1 (M01)
+
 **T01:T03** - Short form for the TEST modules, which consist of an exam and SAM capstone project.
