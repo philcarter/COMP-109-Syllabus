@@ -32,7 +32,7 @@ There will opportunities to earn extra credit. Participate in the discussions, a
 
 The tests and assignments are packaged into three groups: Introductory, Intermediate, and Advanced. The Advanced portion is half the weight of the other two. The intent here is for you to explore advanced topics without impacting your course grade too much. For example, if you complete the first two groups with an A or A+, you may finish the third group with a C, and still be awarded a final grade of A. 
 
-## [](#course-grade-scale)<a id="scale" style="text-decoration: none; vertical-align: baseline;"></a>Course Grade Scale
+## [](#course-grade-scale)Course Grade Scale
 
 | Letter grade | Percentage | GPA
 |--------|--------||--------|
