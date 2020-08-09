@@ -8,11 +8,11 @@ The course grade is based solely upon completion of a series of activities and t
 
 The course is divided into two components:
 
-####<a id="exams" style="text-decoration: none; vertical-align: baseline;"></a>1) Tests: Each test consists of an exam and a project, each worth 5 points for a total of 30.
+#### <a id="exams" style="text-decoration: none; vertical-align: baseline;"></a>1) Tests: Each test consists of an exam and a project, each worth 5 points for a total of 30.
 
 Each test consists of an exam and project. The quizzes and exams will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
-####<a id="assignments" style="text-decoration: none; vertical-align: baseline;"></a> 2) Assignments: 24 activities each worth between 2 and  4 points for a total of 70.
+#### <a id="assignments" style="text-decoration: none; vertical-align: baseline;"></a> 2) Assignments: 24 activities each worth between 2 and  4 points for a total of 70.
 
    *   Textbook Projects 2 points
    *   SAM Training 3 points
