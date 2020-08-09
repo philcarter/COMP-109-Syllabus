@@ -1,6 +1,6 @@
 
 # How will my course grade be calculated?
-[Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Letter Grades](#course_grade_scale)
+[Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Extra Credit](#extra-credit) | [Letter Grades](#course-grade-scale)
 
 ## Total Points 
 There is a total of 100 points. The course grade is based solely upon completion of a series of activities and three tests. A number of Extra Credit opportunities may exist throughout the semester.
@@ -21,9 +21,8 @@ The bottom page of the syllabus provides a schedule for your assignments. The fi
 ## Orientation
 Four tasks worth 0 points. Failure to complete task by week 2 of the semester will result in being dropped from the course. 
 
-## Extra Credit: Maximum 3 points total.  
-
-There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions.  Each credit will be worth 0.25 points.
+## Extra Credit
+Maximum 3 points total.  There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions.  Each credit will be worth 0.25 points.
 
 ## Weighted Groups:
 
