@@ -31,20 +31,21 @@ Maximum 3 points total.  There will opportunities to earn extra credit. Partic
 The tests and assignments are packaged into three groups: Introductory, Intermediate, and Advanced. The Advanced portion is half the weight of the other two. The intent here is for you to explore advanced topics without impacting your course grade too much. For example, if you complete the first two groups with an A or A+, you may finish the third group with a C, and still be awarded a final grade of A. 
 
 ## Course Grade Scale
-| Letter grade | Percentage | GPA
+
+| Letter grade | Percentage | GPA  |
 |--------|--------||--------|
-| A+ | 97–100% | 4.00
-| **A** | 93–96% | 4.00
-| A− | 90–92% | 3.70
-| B+ | 87–89% | 3.30
-| **B** | 83–86% | 3.00
-| B− | 80–82% | 2.70
-| C+ | 77–79% | 2.30
-| **C**  | 73–76% | 2.00
-| C- | 70–72% | 2.00
-| D+ | 67–69% | 1.30
-| **D** | 63–66% | 1.00
-| D- | 60–62% | 0.70
-| **F** | 0–59% | 0.00
+| A+ | 97–100% | 4.00 |
+| **A** | 93–96% | 4.00 |
+| A− | 90–92% | 3.70 |
+| B+ | 87–89% | 3.30 |
+| **B** | 83–86% | 3.00 |
+| B− | 80–82% | 2.70 |
+| C+ | 77–79% | 2.30 |
+| **C**  | 73–76% | 2.00 |
+| C- | 70–72% | 2.00 |
+| D+ | 67–69% | 1.30 |
+| **D** | 63–66% | 1.00 |
+| D- | 60–62% | 0.70 |
+| **F** | 0–59% | 0.00 |
 
 
