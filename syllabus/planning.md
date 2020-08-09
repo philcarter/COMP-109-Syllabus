@@ -1,3 +1,8 @@
+[Resources](resources.html) |
+[Evaluation](evaluation.html) |
+[Planning](planning.html) |
+[Important](important.html)
+
 # Assignment Planning
 [Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
