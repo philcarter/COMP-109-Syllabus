@@ -40,16 +40,16 @@ This applies not only to any verbal or direct communication but also to all form
 **Examples of unacceptable behavior:**
 
 1. Language: (whether in email, on the Discussion board, or embedded in assignments)
- *  racial, stereotypical, or culturally insensitive words
- * profanity
- * personal insults
- * derogatory remarks
- * sexually explict remarks
- * blame others
-2.  Behavior: (whether in email, on the Discussion board, or embedded in assignments)
-    *   creating a hostile or threatening exchange
-    *   persisting in unwanted communication
-    *   Trolling, venting, ranting.
+   *  racial, stereotypical, or culturally insensitive words
+   * profanity
+   * personal insults
+   * derogatory remarks
+   * sexually explict remarks
+   * blame others
+2. Behavior: (whether in email, on the Discussion board, or embedded in assignments)
+   * creating a hostile or threatening exchange
+   * persisting in unwanted communication
+   * Trolling, venting, ranting.
 
 **What happens if I engage in inappropriate or disruptive behavior?**
 
