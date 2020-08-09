@@ -28,7 +28,7 @@ Now, I do understand that everyone has the occasional problem and finishes their
 
 So here is my compromise going forward:
 
-== **There will be no extensions and late submissions accepted during the first two weeks of the semester! ** ==
+== There will be no extensions and late submissions accepted during the first two weeks of the semester!  ==
 
 For the remainder of the semester: Make sure you know exactly when your assignments are due to be handed in and plan your work so that you can meet the submission deadlines. Consult your syllabus or ask in the module Discussion forums or send me a message via inbox if you are unsure of an assignment/assessment deadline and submission procedures.
 
