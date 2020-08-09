@@ -1,6 +1,6 @@
 
 # How will my course grade be calculated?
-[Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Letter Grades](#course_grade_scale)
+[Total Points](#total-points:-100) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Letter Grades](#course_grade_scale)
 
 ## Total Points: 100 
 
