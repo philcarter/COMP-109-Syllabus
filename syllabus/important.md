@@ -51,8 +51,6 @@ Forum posts/threads that are considered unacceptable will be removed.
 
 You will be reported to the Dean of Students along with all facts in the case for disciplinary action which may result in your explusion and removal from the course.
 
-For more information, see the [SBCC Student Code of Conduct](http://www.sbcc.edu/security/standards_of_conduct.php  target="_blank") in the General College Catalog.
-
 For more information, see the 
 <a href="http://www.sbcc.edu/security/standards_of_conduct.php" target="_blank">SBCC Student Code of Conduct</a> in the General College Catalog.
 
