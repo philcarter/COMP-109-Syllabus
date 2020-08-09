@@ -89,8 +89,3 @@ And all requests must have a legitimate reason and acceptable evidence! Evidence
 *   Worked overtime all week long.
 *   Computer got hijacked by ransomware.
 *   Dog ate the laptop (well the power cable to the laptop;p)
-
-[Assignments](http:assignments.md)
-
-<pre style="margin: 1em 0px;">[Assignments](http:assignments.md)</pre>
-<pre style="margin: 1em 0px;">[Assignments](http:assignments.html)</pre>
