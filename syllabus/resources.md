@@ -12,7 +12,7 @@
 
 There are two options. The first option is the recommended resource, which gives you access to the electronic version of the textbook. The second option is the same as option 1 PLUS a physical copy of the textbook. 
 
-1.  **SAM - SAM 365 & 2019 Assessments, Training and Projects Printed Access Card with Access to eBook, 1 term The ISBN is ==`978-0-357-36664-6`==**
+1.  **SAM - SAM 365 & 2019 Assessments, Training and Projects Printed Access Card with Access to eBook, 1 term The ISBN is `978-0-357-36664-6`**
 2.  **e-Pack: New Perspectives Microsoft® Office 365 & Excel 2019 Comprehensive, Loose-leaf Version + SAM 365 & 2019 Assessments, Training and Projects Instant Access with Access to eBook, 1 term.The ISBN is `978-0-357-39783-6.`**
 
 **Order this item from either the [Cengage Website](http://services.cengagebrain.com/course/site.html?id=4316390) or the [SBCC Bookstore](https://www.sbccbooks.com/)** Do not buy the item from any other source. It will not work because the access code can only be used once.
