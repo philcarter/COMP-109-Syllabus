@@ -1,7 +1,7 @@
-[Resources](/syllabus/resources.html) |
-[Evaluation](/syllabus/evaluation.html) |
-[Assignment](/syllabus/assignment.html) |
-[Important](/syllabus/important.html)
+[Resources](syllabus/resources.html) |
+[Evaluation](syllabus/evaluation.html) |
+[Assignment](syllabus/assignment.html) |
+[Important](syllabus/important.html)
 
 ## Welcome to Microsoft Excel 2019!
 [Course Description](#description) | [Course Objectives](#objectives) | [Student Learning Outcomes](#slo) | [Online Format](#onlineformat) | [Glossary](#glossary)
