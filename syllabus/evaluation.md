@@ -36,7 +36,7 @@ The tests and assignments are packaged into three groups: Introductory, Intermed
 
 
 
-Letter grade
+| Letter grade
 | Percentage
 | GPA
 | A+
