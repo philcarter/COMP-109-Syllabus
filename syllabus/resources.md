@@ -1,9 +1,9 @@
-[Resources](syllabus/resources.html) |
-[Evaluation](syllabus/evaluation.html) |
-[Planning](syllabus/planning.html) |
-[Important](syllabus/important.html)
+[Resources](resources.html) |
+[Evaluation](evaluation.html) |
+[Planning](planning.html) |
+[Important](important.html)
 
-# [](#what-resources-do-i-need-for-this-course?)What resources do I need for this course?
+#What resources do I need for this course?
 [Textbook](#textbook) | [System Requirements](#system-requirements)
 
 <a id="material" style="text-decoration: none; vertical-align: baseline;"></a>
