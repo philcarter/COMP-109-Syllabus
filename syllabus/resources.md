@@ -56,4 +56,4 @@ MacOS Note: Some project steps are different on Microsoft Excel for Mac and incl
 
 **OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop.
 
-[^1]:OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop. 
+[^1] OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop. 
