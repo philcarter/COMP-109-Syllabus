@@ -1,6 +1,6 @@
 
 # How will my course grade be calculated?
-[Total Points](#total) | [Assignments](#assignments) | [Exams](#exams) | [Tasks](#project)| [Letter Grades](#course-grade-scale)
+[Total Points](#total) | [Assignments](#assignments) | [Exams](#exams) | [Tasks](#tasks)| [Letter Grades](#grades)
 
 ## [](#total)Total Points: 100 
 
@@ -20,7 +20,7 @@ Each test consists of an exam and project. The quizzes and exams will be objecti
 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
-## [](#project)Orientation: Four tasks worth 0 points
+## [](#tasks)Orientation: Four tasks worth 0 points
 
 Failure to complete task by week 2 of the semester will result in being dropped from the course. 
 
@@ -32,7 +32,7 @@ There will opportunities to earn extra credit. Participate in the discussions, a
 
 The tests and assignments are packaged into three groups: Introductory, Intermediate, and Advanced. The Advanced portion is half the weight of the other two. The intent here is for you to explore advanced topics without impacting your course grade too much. For example, if you complete the first two groups with an A or A+, you may finish the third group with a C, and still be awarded a final grade of A. 
 
-## [](#course-grade-scale)Course Grade Scale
+## [](#grades)Course Grade Scale
 
 | Letter grade | Percentage | GPA
 |--------|--------||--------|
