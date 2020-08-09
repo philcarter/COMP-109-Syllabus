@@ -20,7 +20,7 @@ Each test consists of an exam and project. The quizzes and exams will be objecti
 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
-## <a id="projects" style="text-decoration: none; vertical-align: baseline;"></a> Orientation: Four tasks worth 0 points.
+## [Orientation: Four tasks worth 0 points](#project)
 
 Failure to complete task by week 2 of the semester will result in being dropped from the course. 
 
