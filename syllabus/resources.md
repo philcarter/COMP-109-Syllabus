@@ -1,11 +1,13 @@
-[Textbook](#material) | [System Requirements](#system)
+[Resources](introduction.html) |
+[Evaluation](introduction.html) |
+[Assignment](introduction.html) |
+[Important](introduction.html)
 
 
-[TEST](../comp109/syllabus/introduction.html)
-[TEST1](../syllabus/introduction.html)
-[TEST2](introduction.html)
-[TEST3](../)
+
+
 # [](#what-resources-do-i-need-for-this-course?)What resources do I need for this course?
+[Textbook](#material) | [System Requirements](#system)
 
 <a id="material" style="text-decoration: none; vertical-align: baseline;"></a>
 
