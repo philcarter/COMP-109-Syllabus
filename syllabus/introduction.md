@@ -1,11 +1,6 @@
-[Resources](syllabus/resources.html) |
-[Evaluation](syllabus/evaluation.html) |
-[Planning](syllabus/planning.html) |
-[Important](syllabus/important.html)
-
-## Welcome to Microsoft Excel 2019!
 [Course Description](#course-description) | [Course Objectives](#course-objectives) | [Student Learning Outcomes](#student-learning-outcomes) | [Online Format](#online-format) | [Glossary](#glossary)
 
+## Welcome to Microsoft Excel 2019!
 * Instructor: Phil Carter
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu).[^1]
 * Office Hours: Thursdays, 5:00 pm to 6:30pm.
