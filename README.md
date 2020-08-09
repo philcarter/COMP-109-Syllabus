@@ -13,5 +13,11 @@
 [Descriptions](syllabus/planning.html#assignment-descriptions) | [Test Schedule](syllabus/planning.html#test-schedule) | [Late Submissions](syllabus/planning.html#late-submissions) | [Emergency Extensions](syllabus/planning.html#emergency-extensions)
 
 ##### [Important](syllabus/important.html)
-[Students with Disabilities](syllabus/important.html#students-with-disabilities) | [Academic Honesty](syllabus/important.html#academic-honesty) | [Appropriate Behavior](syllabus/important.html#appropriate-behavior) | <a href="http://www.sbcc.edu/security/standards_of_conduct.php" target="_blank">SBCC Student Code of Conduct</a> |
+[Students with Disabilities](syllabus/important.html#students-with-disabilities) | [Academic Honesty](syllabus/important.html#academic-honesty) | [Appropriate Behavior](syllabus/important.html#appropriate-behavior) | <a href="http://www.sbcc.edu/security/standards_of_conduct.php" target="_blank">SBCC Student Code of Conduct</a> | <a href="https://www.sbcc.edu/calendar/" target="_blank">SBCC Academic Calendar</a>
 
+##### Get Started
+<a href="http://www.sbcc.edu/distanceeducation/distanceedorientation.php" target="_blank">Is an Online Class For You?</a> |
+<a href="http://www.sbcc.edu/distanceeducation/distanceedorientation.php" target="_blank">Is an Online Class For You?</a> |
+<a href="https://canvas.sbcc.edu/courses/33499/modules#module_130896" target="_blank">New to Canvas or SAM?</a> |
+<a href="https://canvas.sbcc.edu/courses/33499/modules#module_130896" >test link?</a> |
+<a href="https://canvas.sbcc.edu/courses/33499/discussion_topics/292342" target="_blank">New to Canvas or SAM?</a> |
