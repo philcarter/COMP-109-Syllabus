@@ -13,4 +13,5 @@
 [Descriptions](syllabus/planning.html#assignment-descriptions) | [Test Schedule](syllabus/planning.html#test-schedule) | [Late Submissions](syllabus/planning.html#late-submissions) | [Emergency Extensions](syllabus/planning.html#emergency-extensions)
 
 ##### [Important](syllabus/important.html)
-[Students with Disabilities](syllabus/important.html#students-with-disabilities) | [Academic Honesty](syllabus/important.html#academic-honesty) | [Appropriate Behavior](syllabus/important.html#appropriate-behavior)
+[Students with Disabilities](syllabus/important.html#students-with-disabilities) | [Academic Honesty](syllabus/important.html#academic-honesty) | [Appropriate Behavior](syllabus/important.html#appropriate-behavior) | <a href="http://www.sbcc.edu/security/standards_of_conduct.php" target="_blank">SBCC Student Code of Conduct</a> |
+
