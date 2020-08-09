@@ -1,9 +1,3 @@
-[Resources](resources.html) |
-[Evaluation](evaluation.html) |
-[Planning](planning.html) |
-[Important](important.html)
-
-# Other Important Information
 [Students with Disabilities](#students-with-disabilities) | [Academic Honesty](#academic-honesty) | [Appropriate Behavior](#appropriate-behavior)
 
 ## Students with Disabilities
