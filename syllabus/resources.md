@@ -2,6 +2,8 @@
 
 [TEST](../comp109/syllabus/introduction.html)
 
+[TEST2](introduction.html)
+
 # [](#what-resources-do-i-need-for-this-course?)What resources do I need for this course?
 
 <a id="material" style="text-decoration: none; vertical-align: baseline;"></a>
