@@ -4,11 +4,11 @@
 [Important](important.html)
 
 # [](#what-resources-do-i-need-for-this-course?)What resources do I need for this course?
-[Textbook](#material) | [System Requirements](#system)
+[Textbook](#textbook) | [System Requirements](#system-requirements)
 
 <a id="material" style="text-decoration: none; vertical-align: baseline;"></a>
 
-## [](#textbook)Textbook
+## Textbook
 
 There are two options. The first option is the recommended resource, which gives you access to the electronic version of the textbook. The second option is the same as option 1 PLUS a physical copy of the textbook. 
 
@@ -21,13 +21,13 @@ There are two options. The first option is the recommended resource, which gives
 
 > Note: You will see many references to CENGAGE UNLIMITED (CU) when accessing SAM or the Cengage Website. CU is not required for this course and it is more expensive then the options listed above! But if you are enrolled in another course this semester that uses CENGAGE UNLIMITED, CU is a smart choice and you will not have to purchase above option 1 or 2 for this course. The materials required for this class—and any other classes using Cengage products—are included in ONE Cengage Unlimited subscription. For $119.99 per semester, you get access to ALL your Cengage eTextbooks and online homework in ONE place. Four FREE hardcopy textbook rentals are also available for select titles, just pay $7.99 S&H each.==
 
-## [](#system-requirements)System Requirements
+## System Requirements
 
 For best performance, Canvas should be used on the current or first previous major release of Chrome, Firefox, Edge, or Safari. Because it's built using web standards, Canvas runs on Windows, Mac, Linux, iOS, Android, or any other device with a modern web browser.
 
 Canvas only requires an operating system that can run the latest compatible web browsers. Your computer operating system should be kept up to date with the latest recommended security updates and upgrades.
 
-###### [](#supported-browsers)Supported Browsers
+###### Supported Browsers
 
 *   **Chrome** 81 and 83
 *   **Firefox** 76 and 77 (Extended Releases are not supported)
@@ -36,7 +36,7 @@ Canvas only requires an operating system that can run the latest compatible web 
 
 You should always use the most current version of your preferred browser. Your browser will notify you if there is a new version available.
 
-#### [](#workstation-recommendations)Workstation Recommendations
+#### Workstation Recommendations
 
 *   Download bandwidth: 5+ Mbps
 *   RAM: 2+ GB
@@ -45,7 +45,7 @@ You should always use the most current version of your preferred browser. Your b
 *   Graphics: DirectX, 64+ MB
 *   Sound (for some content)
 
-#### [](#microsoft-office)Microsoft Excel
+#### Microsoft Excel
 
 A fully installed Microsoft Excel  version is required to complete online projects. Online projects do not work with the web based versions[^1] of Microsoft Excel.
 
