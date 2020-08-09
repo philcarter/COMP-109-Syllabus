@@ -1,6 +1,10 @@
-[Course Description](#description) | [Course Objectives](#objectives) | [Student Learning Outcomes](#slo) | [Online Format](#onlineformat) | [Glossary](#glossary)
+[Resources](../syllabus/resources.html) |
+[Evaluation](../syllabus/evaluation.html) |
+[Assignment](../syllabus/assignment.html) |
+[Important](../syllabus/important.html)
 
 ## Welcome to Microsoft Excel 2019!
+[Course Description](#description) | [Course Objectives](#objectives) | [Student Learning Outcomes](#slo) | [Online Format](#onlineformat) | [Glossary](#glossary)
 
 * Instructor: Phil Carter
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu). (*)
