@@ -1,18 +1,18 @@
 
 # How will my course grade be calculated?
-[Total Points](#total) | [Assignments](#assignments) | [Exams](#exams) | [Tasks](#tasks)| [Letter Grades](#grades)
+[Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Letter Grades](#course_grade_scale)
 
-## [](#total)Total Points: 100 
+## Total Points: 100 
 
 The course grade is based solely upon completion of a series of activities and three tests. A number of Extra Credit opportunities may exist throughout the semester.
 
 The course is divided into two components:
 
-## [](#assignments)1) Tests: Each test consists of an exam and a project, each worth 5 points for a total of 30.
+## Tests 
+Each test consists of an exam and a project, each worth 5 points for a total of 30. Each test consists of an exam and project. The quizzes and exams will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
-Each test consists of an exam and project. The quizzes and exams will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
-
-## [](#exams) 2) Assignments: 24 activities each worth between 2 and  4 points for a total of 70.
+## Assignments 
+24 activities each worth between 2 and  4 points for a total of 70.
 
    *   Textbook Projects 2 points
    *   SAM Training 3 points
@@ -20,7 +20,7 @@ Each test consists of an exam and project. The quizzes and exams will be objecti
 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
-## [](#tasks)Orientation: Four tasks worth 0 points
+## Orientation: Four tasks worth 0 points
 
 Failure to complete task by week 2 of the semester will result in being dropped from the course. 
 
@@ -32,7 +32,7 @@ There will opportunities to earn extra credit. Participate in the discussions, a
 
 The tests and assignments are packaged into three groups: Introductory, Intermediate, and Advanced. The Advanced portion is half the weight of the other two. The intent here is for you to explore advanced topics without impacting your course grade too much. For example, if you complete the first two groups with an A or A+, you may finish the third group with a C, and still be awarded a final grade of A. 
 
-## [](#grades)Course Grade Scale
+## Course Grade Scale
 
 | Letter grade | Percentage | GPA
 |--------|--------||--------|
