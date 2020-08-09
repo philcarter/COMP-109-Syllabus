@@ -1,7 +1,8 @@
 [Textbook](#material) | [System Requirements](#system)
 
-[TEST](../comp109/syllabus/introduction.html)
 
+[TEST](../comp109/syllabus/introduction.html)
+[TEST1](../syllabus/introduction.html)
 [TEST2](introduction.html)
 
 # [](#what-resources-do-i-need-for-this-course?)What resources do I need for this course?
