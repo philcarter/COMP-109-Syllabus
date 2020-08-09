@@ -2,7 +2,7 @@
 # How will my course grade be calculated?
 [Total Points](#total) | [Assignments](#assignments) | [Exams](#exams) | [Tasks](#project)| [Letter Grades](#course-grade-scale)
 
-## [](#total)Total Points: 100
+## #total Total Points: 100
 
 The course grade is based solely upon completion of a series of activities and three tests. A number of Extra Credit opportunities may exist throughout the semester.
 
