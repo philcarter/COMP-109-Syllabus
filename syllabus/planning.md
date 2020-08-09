@@ -6,11 +6,6 @@
 # Assignment Planning
 [Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 ## Assignment Descriptions:
 
 **[Textbook] Module Project** is designed to promote chapter reading; it is a **graded** assignment that introduces students to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. 
