@@ -28,7 +28,7 @@ Now, I do understand that everyone has the occasional problem and finishes their
 
 So here is my compromise going forward:
 
-```There will be no extensions and late submissions accepted during the first two weeks of the semester!```  
+**```There will be no extensions and late submissions accepted during the first two weeks of the semester!```  
 
 For the remainder of the semester: Make sure you know exactly when your assignments are due to be handed in and plan your work so that you can meet the submission deadlines. Consult your syllabus or ask in the module Discussion forums or send me a message via inbox if you are unsure of an assignment/assessment deadline and submission procedures.
 
@@ -42,7 +42,7 @@ Participation in the Q & A discussions each week can be helpful. This is a place
 
 Again posting questions about a assignment on the same day it is due will not give you enough time to get a helpful response.
 
-```Also, I might not be able to respond to emails or "emergencies" on any given due date, so plan accordingly.```
+**```Also, I might not be able to respond to emails or "emergencies" on any given due date, so plan accordingly.```
 
 Assignments: Late submissions without a granted extension by me will incur a 5% daily penalty off the grade during the late submission period of 14 days. After that even late work will not be accepted. 
 
@@ -51,7 +51,7 @@ Exams and Final Student Project: Any late submissions will be graded with a 0 un
 #### Emergency Extensions 
 If, however, life has conspired against you to prevent you from meeting an assignment deadline don't despair. I recognize that you may suffer from a sudden illness or other serious or significant event that is unforeseen and/or unpreventable and which adversely affects your ability to complete an assignment or assessment; in such cases you may request an extension for an assignment without penalty, but you must ask **more than one day** before the assignment is due. 
 
-```Extension requests on the due date will not be considered!```
+**```Extension requests on the due date will not be considered!```
 
 And all requests must have a legitimate reason and acceptable evidence! Evidence does not have to be submitted at the time of request, but it will be required **before** the final week of the semester in order for your grades to be adjusted correctly.   
 
