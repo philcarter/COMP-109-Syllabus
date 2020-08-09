@@ -1,12 +1,4 @@
-[Resources](resources.html) |
-[Evaluation](evaluation.html) |
-[Planning](planning.html) |
-[Important](important.html)
-
-# What resources do I need for this course?
 [Textbook](#textbook) | [System Requirements](#system-requirements)
-
-<a id="material" style="text-decoration: none; vertical-align: baseline;"></a>
 
 ## Textbook
 
