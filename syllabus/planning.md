@@ -1,4 +1,4 @@
-[Resources](resources.html) |
+[Resources](resources.md) |
 [Evaluation](evaluation.html) |
 [Planning](planning.html) |
 [Important](important.html)
@@ -63,9 +63,7 @@ And all requests must have a legitimate reason and acceptable evidence! Evidence
 ###### Examples of legimate reason and acceptable evidence
 |Reason| Evidence |
 |--------|--------|
-| Serious physical illness or accident resulting in hospitalization or medical emergency relating to yourself | Medical certificate/hospital report/report from qualified medical practitioner. These should be signed whilst the symptoms were still apparent to the medical practitioner.
-| Serious illness (as described above) or death of a member of your immediate family | A medical report from a qualified medical practitioner or a copy of a death certificate, coroner's report, letter from medical professional. Accompanied if necessary by formal documentation confirming relationship with the deceased.|
-| Severe adverse personal/family difficulties | Report from Student Counselling Service, Student Welfare Service or another qualified professional.|
+| Serious physical illness or accident resulting in hospitalization or medical emergency relating to yourself | Medical certificate/hospital report/report from qualified medical practitioner. These should be signed whilst the symptoms were still apparent to the medical practitioner. | Serious illness (as described above) or death of a member of your immediate family | A medical report from a qualified medical practitioner or a copy of a death certificate, coroner's report, letter from medical professional. Accompanied if necessary by formal documentation confirming relationship with the deceased.| Severe adverse personal/family difficulties | Report from Student Counselling Service, Student Welfare Service or another qualified professional.|
 
 
 ###### Evidence that will not be accepted
