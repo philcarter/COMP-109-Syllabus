@@ -15,7 +15,6 @@ Each test consists of an exam and a project, each worth 5 points for a total of 
    *   Textbook Projects 2 points
    *   SAM Training 3 points
    *   SAM Projects 4 points
-
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
 ## Orientation
@@ -25,11 +24,9 @@ Four tasks worth 0 points. Failure to complete task by week 2 of the semester wi
 Maximum 3 points total.  There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions.  Each credit will be worth 0.25 points.
 
 ## Weighted Groups:
-
 The tests and assignments are packaged into three groups: Introductory, Intermediate, and Advanced. The Advanced portion is half the weight of the other two. The intent here is for you to explore advanced topics without impacting your course grade too much. For example, if you complete the first two groups with an A or A+, you may finish the third group with a C, and still be awarded a final grade of A. 
 
 ## Course Grade Scale
-
 | Letter grade | Percentage | GPA
 |--------|--------||--------|
 | A+ | 97–100% | 4.00
