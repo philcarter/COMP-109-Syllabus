@@ -1,3 +1,7 @@
+[Resources](syllabus/resources.html) |
+[Evaluation](syllabus/evaluation.html) |
+[Planning](syllabus/planning.html) |
+[Important](syllabus/important.html)
 
 # How will my course grade be calculated?
 [Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Extra Credit](#extra-credit) | [Letter Grades](#course-grade-scale)
