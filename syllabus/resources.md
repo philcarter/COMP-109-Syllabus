@@ -1,6 +1,6 @@
 [Textbook](#material) | [System Requirements](#system)
 
-[TEST](../syllabus/introduction)
+[TEST](../syllabus/introduction.html)
 
 # [](#what-resources-do-i-need-for-this-course?)What resources do I need for this course?
 
