@@ -1,5 +1,5 @@
 # COMP-109
-![Power-USER-Mastering-MS-Excel-Banner.jpg](/syllabus/Power-USER-Mastering-MS-Excel-Banner.jpg)
+![Power-USER-Mastering-MS-Excel-Banner.jpg](/images/Power-USER-Mastering-MS-Excel-Banner.jpg)
 ##### [Introduction](syllabus/introduction.html)
 [Course Description](syllabus/introduction.html#course-description) | [Course Objectives](syllabus/introduction.html#course-objectives) | [Student Learning Outcomes](syllabus/introduction.html#student-learning-outcomes) | [Online Format](syllabus/introduction.html#online-format) | [Glossary](syllabus/introduction.html#glossary)
 
