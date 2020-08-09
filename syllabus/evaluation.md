@@ -1,13 +1,11 @@
 
 # How will my course grade be calculated?
-[Total Points](#total-points:-100) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Letter Grades](#course_grade_scale)
+[Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Letter Grades](#course_grade_scale)
 
-## Total Points: 100 
-
-The course grade is based solely upon completion of a series of activities and three tests. A number of Extra Credit opportunities may exist throughout the semester.
+## Total Points 
+There is a total of 100 points. The course grade is based solely upon completion of a series of activities and three tests. A number of Extra Credit opportunities may exist throughout the semester.
 
 The course is divided into two components:
-
 ## Tests 
 Each test consists of an exam and a project, each worth 5 points for a total of 30. Each test consists of an exam and project. The quizzes and exams will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
@@ -20,9 +18,8 @@ Each test consists of an exam and a project, each worth 5 points for a total of 
 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
-## Orientation: Four tasks worth 0 points
-
-Failure to complete task by week 2 of the semester will result in being dropped from the course. 
+## Orientation
+Four tasks worth 0 points. Failure to complete task by week 2 of the semester will result in being dropped from the course. 
 
 ## Extra Credit: Maximum 3 points total.  
 
