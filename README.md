@@ -11,9 +11,9 @@
 * Office Hours: Thursdays, 5:00 pm to 6:30pm.
 * Office: [Video Conference (Zoom)](https://sbcc.zoom.us/j/412912035).[^2]
 
-[^1]Please use CANVAS inbox for messaging
+[^1]: Please use CANVAS inbox for messaging
 
-[^2]I can also meet on campus by appointment on Wednesday or Friday. (Not Applicable in 2020)
+[^2]: I can also meet on campus by appointment on Wednesday or Friday. (Not Applicable in 2020)
 
 ## Course Description
 Comp 109 covers core spreadsheet skills using Microsoft Excel and also introduces the student to some of the advanced features of Excel, including functions and formulas, creating workbooks/worksheets, formatting, graphs and charts.
