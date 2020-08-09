@@ -3,10 +3,10 @@
 [Planning](syllabus/planning.html) |
 [Important](syllabus/important.html)
 
-
+# Other Important Information
 [Students with Disabilities](#students-with-disabilities) | [Academic Honesty](#academic-honesty) | [Appropriate Behavior](#appropriate-behavior)
 
-##Students with Disabilities
+## Students with Disabilities
 Contact the DSPS office (805-965-0581 ext. 2364; email: [dspshelp@sbcc.edu](mailto:dspshelp@sbcc.edu))  
 Present documentation of disability for review by a disabilities specialist  
 Discuss options for support through DSPS  
@@ -14,7 +14,7 @@ Present a signed DSPS authorization for accommodation to your instructor
 
 For more information, please read [DSPS: Information for Students with Disabilities](https://canvas.sbcc.edu/courses/33499/pages/dsps-information-for-students-with-disabilities "DSPS: Information for Students with Disabilities ")
 
-##Academic Honesty
+## Academic Honesty
 You are expected to complete your own assignments and exams. If you are caught cheating, both you and the other students involved will receive an F.
 
 **What do we mean by “cheating?”**
@@ -28,7 +28,7 @@ You are expected to complete your own assignments and exams. If you are caught c
 **What happens if you cheat?**
 Both you and the other students involved will receive an F on the assignment, exam, and/or for the entire course and your name will be sent to the Dean for Academic Discipline.
 
-##Appropriate Behavior
+## Appropriate Behavior
 Please consider our online classroom in Canvas as public and professional space.
 
 All involved, the instructor, the online instructional aide and you, the student, are expected to conduct themselves in their dealings with each other with respect, civility and the highest standards of professionalism.
