@@ -1,10 +1,7 @@
-[Resources](introduction.html) |
-[Evaluation](introduction.html) |
-[Assignment](introduction.html) |
-[Important](introduction.html)
-
-
-
+[Resources](resources.html) |
+[Evaluation](evaluation.html) |
+[Assignment](assignment.html) |
+[Important](important.html)
 
 # [](#what-resources-do-i-need-for-this-course?)What resources do I need for this course?
 [Textbook](#material) | [System Requirements](#system)
