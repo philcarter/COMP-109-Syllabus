@@ -1,6 +1,6 @@
 # COMP-109
-##### [Introduction](readme.html)
-[Course Description](#course-description) | [Course Objectives](#course-objectives) | [Student Learning Outcomes](#student-learning-outcomes) | [Online Format](#online-format) | [Glossary](#glossary)
+##### [Introduction](syllabus/introduction.html)
+[Course Description](syllabus/introduction.html#course-description) | [Course Objectives](syllabus/introduction.html#course-objectives) | [Student Learning Outcomes](syllabus/introduction.html#student-learning-outcomes) | [Online Format](syllabus/introduction.html#online-format) | [Glossary](syllabus/introduction.html#glossary)
 
 ##### [Resources](syllabus/resources.html)
 [Textbook](syllabus/resources.html#textbook) | [System Requirements](syllabus/resources.html#system-requirements)
