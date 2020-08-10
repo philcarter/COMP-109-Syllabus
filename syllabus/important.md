@@ -8,7 +8,7 @@ If you have already registered with DSPS, please submit your accommodation reque
 Complete this process in a timely manner to allow adequate time to provide accommodations.
 
 DSPS is located in the Student Services (SS) Building, Room  160. 
-Contact the DSPS office (805-965-0581 ext. 2364; email: [dspshelp@sbcc.edu](mailto:dspshelp@sbcc.edu))  
+Contact the DSPS office (805-965-0581 ext. 2364; email: [dspshelp@sbcc.edu](mailto:dspshelp@sbcc.edu) 
 
 ## Academic Honesty
 You are expected to complete your own assignments and exams. If you are caught cheating, both you and the other students involved will receive an F.
