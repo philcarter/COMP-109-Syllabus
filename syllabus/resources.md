@@ -4,7 +4,7 @@
 
 There are two options. The first option is the recommended resource, which gives you access to the electronic version of the textbook. The second option is the same as option 1 PLUS a physical copy of the textbook. 
 
-######Option 1: Digital Textbook (**Recommended**)
+###### Option 1: Digital Textbook (**Recommended**)
  - Title: **SAM - SAM 365 & 2019 Assessments, Training and Projects Printed Access Card with Access to eBook, 1 term** 
  - ISBN: **`978-0-357-36664-6`**
  - Price: $**80.00** (<a href="http://services.cengagebrain.com/course/site.html?id=4316390" target="_blank">**Cengage Website**</a> ) $100 (<a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>)
@@ -15,14 +15,14 @@ There are two options. The first option is the recommended resource, which gives
 
 **OR** if you prefer to include a hardcopy of the textbook:
 
-######Option 2 Same as above but with a hardcopy  textbook.
+###### Option 2 Same as above but with a hardcopy  textbook.
 
 - Title: e-Pack: New Perspectives Microsoft® Office 365 & Excel 2019 Comprehensive, Loose-leaf Version + SAM 365 & 2019 Assessments, Training and Projects Instant Access with Access to eBook, 1 term.
 - ISBN: `978-0-357-39783-6.`
 - Price $115 (Cengage) $145 (SBCC Campus Store)
 
 
-######Cengage Unlimited
+###### Cengage Unlimited
 You will see many references to CENGAGE UNLIMITED (CU) when accessing SAM or the Cengage Website. CU is not required for this course and it is more expensive then the options listed above! But if you are enrolled in another course this semester that uses CENGAGE UNLIMITED, CU is a smart choice and you will not have to purchase above option 1 or 2 for this course. The materials required for this class—and any other classes using Cengage products—are included in ONE Cengage Unlimited subscription. For $119.99 per semester, you get access to ALL your Cengage eTextbooks and online homework in ONE place. Four FREE hardcopy textbook rentals are also available for select titles, just pay $7.99 S&H each.
 
 ## System Requirements
