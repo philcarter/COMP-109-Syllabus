@@ -21,4 +21,4 @@
 <a href="https://canvas.sbcc.edu/courses/33499/modules#module_124518" target="_blank">Getting Started with Excel</a> |
 <a href="https://canvas.sbcc.edu/courses/33499/discussion_topics/292342" target="_blank">New to Canvas or SAM?</a>
 
-<a href="https://canvas.sbcc.edu/courses/33499/pages/evaluation" target="_blank">Alt SIte</a>
+<a href="https://canvas.sbcc.edu/courses/33499/pages/evaluation" >Alt SIte2</a>
