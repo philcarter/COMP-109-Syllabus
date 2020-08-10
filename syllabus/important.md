@@ -1,12 +1,14 @@
 [Students with Disabilities](#students-with-disabilities) | [Academic Honesty](#academic-honesty) | [Appropriate Behavior](#appropriate-behavior)
 
 ## Students with Disabilities
-Contact the DSPS office (805-965-0581 ext. 2364; email: [dspshelp@sbcc.edu](mailto:dspshelp@sbcc.edu))  
-Present documentation of disability for review by a disabilities specialist  
-Discuss options for support through DSPS  
-Present a signed DSPS authorization for accommodation to your instructor
+Disability Services and Programs for Students (DSPS) coordinates all academic accommodations for students with documented disabilities at Santa Barbara City College. If you have or think you might have a disability that impacts your educational experience in this class, contact DSPS to determine your eligibility for accommodations.
 
-For more information, please read [DSPS: Information for Students with Disabilities](https://canvas.sbcc.edu/courses/33499/pages/dsps-information-for-students-with-disabilities "DSPS: Information for Students with Disabilities ")
+If you have already registered with DSPS, please submit your accommodation requests via the‘DSPS Online Services Student Portal’ as soon as possible. This needs to be done each semester. If you have any questions or concerns about your accommodations, please make an appointment with a DSPS Counselor.
+
+Complete this process in a timely manner to allow adequate time to provide accommodations.
+
+DSPS is located in the Student Services (SS) Building, Room  160. 
+Contact the DSPS office (805-965-0581 ext. 2364; email: [dspshelp@sbcc.edu](mailto:dspshelp@sbcc.edu))  
 
 ## Academic Honesty
 You are expected to complete your own assignments and exams. If you are caught cheating, both you and the other students involved will receive an F.
