@@ -9,7 +9,7 @@
 —_Conrad Hilton_
 
 <hr />
-<p style="margin-left: 30px; text-align: left;"> <img src="../images/intro/phil.jpg"  width="192" height="256" />
+<img style="display: block; float: right;" src="../images/intro/phil.jpg"  width="192" height="256" />
 
 Hello everyone, and welcome to the first day of class. What should we do first today to get started?
 
@@ -20,7 +20,6 @@ First off, there are two very helpful modules available to us:
 If this is your first time in CANVAS and/or SAM, please take the time now before you do anything else in this course to familiarize yourself with every topic listed in those first two modules. Even if this is not your first time, still review the topics!
 
 The rest of the course is laid out using the textbook chapter (modules) . Most weeks we will tackle a new module. Each course week for COMP 109 has two due days: Mondays and Wednedays. If you do not like the concept of two due days each week, please submit all your assignments by each Monday  :)
-</p>
 
 Week one: This week we have four activity tasks that have to be submitted by Saturday! Each step should not take us more then five to ten minutes to complete. I would schedule myself an hour at least this week to take care of these tasks as soon as possible. **Failure to submit the tasks will cause you to be dropped from the course!**
 
@@ -32,6 +31,5 @@ Tip 1: Use the discussion forums in each module if you have questions or feel fr
 
 Tip 2: Even if you aren't an absolute beginner with Excel, pretend that you are! Make a good beginning! You may find, especially if you are self-taught, that there are gaps in your knowledge, even at the beginning level, that need to be filled in. The point of completing the projects is not just to complete the projects! Don't take anything for granted. Look for your weaknesses; concentrate on learning to use Excel in the right way, for the right job, completed in the least amount of time.
 
-```
 **PLEASE NOTE** : Failure to complete Getting Started Tasks #1, #2 , #3 and #4 by the due date will result in being dropped from the course. So get started today!
-```
+
