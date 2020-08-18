@@ -1,6 +1,6 @@
 [persisting.jpg](../images/habits/persisting.jpg =50px)
 ### <img src="../images/habits/persisting.jpg" width="200" height="200" />  _Stick to it!_
-
+### <img src="../images/habits/persisting.jpg" width="10%" height="10%" />  _Stick to it!_
 ### ![persisting.jpg](../images/habits/persisting.jpg =50px) _Stick to it!_
 
 
