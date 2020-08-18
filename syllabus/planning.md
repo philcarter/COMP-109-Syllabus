@@ -1,4 +1,4 @@
-##### | [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | [Important](important) |
+##### [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | [Important](important)
 ***
 [Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
