@@ -10,7 +10,7 @@
 <a href="https://philcarter.github.io/COMP-109/syllabus/resources.html#system-requirements" target="_blank">System Requirements</a>
 
 ##### <a href="https://philcarter.github.io/COMP-109/syllabus/evaluation.html" target="_blank">Evaluation</a>
-<a href="https://philcarter.github.io/COMP-109/syllabus/evaluation.html#total-points" target="_blank">Total Points</a>) | 
+<a href="https://philcarter.github.io/COMP-109/syllabus/evaluation.html#total-points" target="_blank">Total Points</a> | 
 <a href="https://philcarter.github.io/COMP-109/syllabus/evaluation.html#assignments" target="_blank">Assignments</a> | 
 <a href="https://philcarter.github.io/COMP-109/syllabus/evaluation.html#tests)" target="_blank">Tests</a> |
 <a href="https://philcarter.github.io/COMP-109/syllabus/evaluation.html#Orientation" target="_blank">Tasks</a> | 
@@ -25,7 +25,7 @@
 
 ##### <a href="https://philcarter.github.io/COMP-109/syllabus/important.html" target="_blank">Important</a>
 <a href="https://philcarter.github.io/COMP-109/syllabus/important.html#students-with-disabilities" target="_blank">Students with Disabilities</a> | 
-<a href="https://philcarter.github.io/COMP-109/syllabus/important.html#academic-honesty" target="_blank">Academic Honesty</a>) | 
+<a href="https://philcarter.github.io/COMP-109/syllabus/important.html#academic-honesty" target="_blank">Academic Honesty</a> | 
 <a href="https://philcarter.github.io/COMP-109/syllabus/important.html#appropriate-behavior" target="_blank">Appropriate Behavior</a> | 
 <a href="http://www.sbcc.edu/security/standards_of_conduct.php" target="_blank">SBCC Student Code of Conduct</a> | 
 <a href="https://www.sbcc.edu/calendar/" target="_blank">SBCC Academic Calendar</a>
