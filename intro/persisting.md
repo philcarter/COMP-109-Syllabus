@@ -1,4 +1,4 @@
-### ![persisting.jpg](../images/habits/persisting.jpg) _Stick to it!_
+### ![persisting.jpg](../images/habits/persisting.jpg = 10%) _Stick to it!_
 
 > Perservering in task through to completion; remaining focused. Looking for way to reach your goal when stuck.  Not giving up
 
