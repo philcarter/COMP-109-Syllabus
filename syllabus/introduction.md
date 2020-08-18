@@ -1,3 +1,5 @@
+##### | [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | [Important](important) |
+***
 [Course Description](#course-description) | [Course Objectives](#course-objectives) | [Student Learning Outcomes](#student-learning-outcomes) | [Online Format](#online-format) | [Glossary](#glossary)
 
 ## Welcome to Microsoft Excel 2019!
