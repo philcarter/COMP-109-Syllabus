@@ -1,4 +1,4 @@
-![Power-USER-Mastering-MS-Excel-Banner.jpg](/images/Power-USER-Mastering-MS-Excel-Banner.jpg)
+<!--![Power-USER-Mastering-MS-Excel-Banner.jpg](/images/Power-USER-Mastering-MS-Excel-Banner.jpg)-->
 
 ##### <a href="https://philcarter.github.io/COMP-109-Syllabus/introduction.html">Introduction</a>
 <a href="https://philcarter.github.io/COMP-109-Syllabus/introduction.html#course-description">Course Description</a> | 
