@@ -1,8 +1,8 @@
-| ##### <a href="../introduction.html"  |target="_blank">Introduction</a>
-| ##### <a href="../resources.html" target="_blank">Resources</a> |
-| ##### <a href="../evaluation.html" target="_blank">Evaluation</a> |
-| ##### <a href="../planning.html" target="_blank">Planning</a> |
-| ##### <a href="../important.html" target="_blank">Important</a> |
+| ##### <a href="../introduction.html" >Introduction</a> |
+| ##### <a href="../resources.html" >Resources</a> |
+| ##### <a href="../evaluation.html" >Evaluation</a> |
+| ##### <a href="../planning.html" >Planning</a> |
+| ##### <a href="../important.html" >Important</a> |
 
 [Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Extra Credit](#extra-credit) | [Letter Grades](#course-grade-scale)
 
