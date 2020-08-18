@@ -1,3 +1,5 @@
+##### | [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | [Important](important) |
+***
 [Textbook](#textbook) | [System Requirements](#system-requirements)
 
 ## Textbook
