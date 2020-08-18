@@ -29,9 +29,3 @@
 <a href="https://philcarter.github.io/COMP-109/syllabus/important.html#appropriate-behavior" target="_blank">Appropriate Behavior</a> | 
 <a href="http://www.sbcc.edu/security/standards_of_conduct.php" target="_blank">SBCC Student Code of Conduct</a> | 
 <a href="https://www.sbcc.edu/calendar/" target="_blank">SBCC Academic Calendar</a>
-
-##### Get Started
-<a href="http://www.sbcc.edu/distanceeducation/distanceedorientation.php" target="_blank">Is an Online Class For You?</a> |
-<a href="https://canvas.sbcc.edu/courses/33499/modules#module_130896" target="_blank">New to Canvas or SAM?</a> |
-<a href="https://canvas.sbcc.edu/courses/33499/modules#module_124518" target="_blank">Getting Started with Excel</a> |
-<a href="https://canvas.sbcc.edu/courses/33499/discussion_topics/292342" target="_blank">New to Canvas or SAM?</a>
