@@ -1,4 +1,4 @@
-##### | [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | [Important](important) |
+##### [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | [Important](important)
 ***
 [Students with Disabilities](#students-with-disabilities) | [Academic Honesty](#academic-honesty) | [Appropriate Behavior](#appropriate-behavior)
 
