@@ -8,7 +8,8 @@
 
 —_Conrad Hilton_
 
-<hr><p style="margin-left: 30px; text-align: left;"> <img src="../images/intro/phil.jpg"/></p>
+<hr />
+<p style="margin-left: 30px; text-align: left;"> <img src="../images/intro/phil.jpg"  width="192" height="256" />
 
 Hello everyone, and welcome to the first day of class. What should we do first today to get started?
 
@@ -19,6 +20,7 @@ First off, there are two very helpful modules available to us:
 If this is your first time in CANVAS and/or SAM, please take the time now before you do anything else in this course to familiarize yourself with every topic listed in those first two modules. Even if this is not your first time, still review the topics!
 
 The rest of the course is laid out using the textbook chapter (modules) . Most weeks we will tackle a new module. Each course week for COMP 109 has two due days: Mondays and Wednedays. If you do not like the concept of two due days each week, please submit all your assignments by each Monday  :)
+</p>
 
 Week one: This week we have four activity tasks that have to be submitted by Saturday! Each step should not take us more then five to ten minutes to complete. I would schedule myself an hour at least this week to take care of these tasks as soon as possible. **Failure to submit the tasks will cause you to be dropped from the course!**
 
