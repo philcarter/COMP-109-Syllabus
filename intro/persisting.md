@@ -8,7 +8,7 @@
 
 —_Conrad Hilton_
 
-<hr><p style="margin-left: 30px; text-align: left;"> <img src="../images/habits/phil.jpg"/></p>
+<hr><p style="margin-left: 30px; text-align: left;"> <img src="../images/intro/phil.jpg"/></p>
 
 Hello everyone, and welcome to the first day of class. What should we do first today to get started?
 
