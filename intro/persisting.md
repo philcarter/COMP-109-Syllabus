@@ -1,4 +1,4 @@
-### ![persisting.jpg](https://canvas.sbcc.edu/courses/33499/files/14336654/download) _Stick to it!_
+### ![persisting.jpg](../images/) _Stick to it!_
 
 > Perservering in task through to completion; remaining focused. Looking for way to reach your goal when stuck.  Not giving up
 
