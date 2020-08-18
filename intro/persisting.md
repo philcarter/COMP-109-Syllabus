@@ -1,8 +1,4 @@
-[persisting.jpg](../images/habits/persisting.jpg =50px)
-### <img src="../images/habits/persisting.jpg" width="200" height="200" />  _Stick to it!_
 ### <img src="../images/habits/persisting.jpg" width="10%" height="10%" />  _Stick to it!_
-### ![persisting.jpg](../images/habits/persisting.jpg =50px) _Stick to it!_
-
 
 > Perservering in task through to completion; remaining focused. Looking for way to reach your goal when stuck.  Not giving up
 
@@ -12,9 +8,7 @@
 
 —_Conrad Hilton_
 
-* * *
-
-![36188527_398359654010360_3073846920528003072_n.jpg](https://canvas.sbcc.edu/courses/33499/files/13917512/preview)
+<hr><p style="margin-left: 30px; text-align: left;"> <img src="../images/habits/phil.jpg"/></p>
 
 Hello everyone, and welcome to the first day of class. What should we do first today to get started?
 
@@ -36,4 +30,6 @@ Tip 1: Use the discussion forums in each module if you have questions or feel fr
 
 Tip 2: Even if you aren't an absolute beginner with Excel, pretend that you are! Make a good beginning! You may find, especially if you are self-taught, that there are gaps in your knowledge, even at the beginning level, that need to be filled in. The point of completing the projects is not just to complete the projects! Don't take anything for granted. Look for your weaknesses; concentrate on learning to use Excel in the right way, for the right job, completed in the least amount of time.
 
-**PLEASE NOTE** <span style="font-size: 100%;">: Failure to complete Getting Started Tasks #1, #2 , #3 and #4 by the due date will result in being dropped from the course. So get started today!</span>
+```
+**PLEASE NOTE** : Failure to complete Getting Started Tasks #1, #2 , #3 and #4 by the due date will result in being dropped from the course. So get started today!
+```
