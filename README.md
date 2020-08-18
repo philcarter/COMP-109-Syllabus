@@ -1,5 +1,3 @@
-![Power-USER-Mastering-MS-Excel-Banner.jpg](/images/Power-USER-Mastering-MS-Excel-Banner.jpg)
-
 ##### <a href="https://philcarter.github.io/COMP-109/syllabus/introduction.html" target="_blank">Introduction</a>
 <a href="https://philcarter.github.io/COMP-109/syllabus/introduction.html#course-description" target="_blank">Course Description</a> | 
 <a href="https://philcarter.github.io/COMP-109/syllabus/introduction.html#course-objectives" target="_blank">Course Objectives</a> | 
