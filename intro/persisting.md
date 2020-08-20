@@ -8,7 +8,7 @@
 —_Conrad Hilton_
 
 <hr />
-<img align="right" src="../images/intro/phil.jpg"  width="192" height="256" />
+<img align="left" src="../images/intro/phil.jpg"  width="192" height="256" />
 
 Hello everyone, and welcome to the first day of class. What should we do first today to get started?
 
