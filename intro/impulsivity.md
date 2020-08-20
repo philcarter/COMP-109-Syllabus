@@ -1,4 +1,4 @@
-### <img src="../images/habits/managing_impulsivity.jpg" width="10%" height="10%" />  _Take your time!_
+### <img src="../images/habits/managing_impulsivity.jpg" width="10%" height="10%" />_Take your time!_
 
 > Thinking before acting; remaining calm, thoughtful and deliberate
 
@@ -8,11 +8,7 @@
 
 —_Daniel Goleman_
 
-<hr>
-<div id="header" style="padding: 10px; background-color: #217346; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000;"><h2 style="color:white;" > M01 Objectives</h2></div>
-
-
-
+##M01 Objectives
 **Session 1.1**
 - Open and close a workbook
 -   Navigate through a workbook and worksheet
