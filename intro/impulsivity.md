@@ -9,14 +9,9 @@
 —_Daniel Goleman_
 
 <hr>
+<div id="header" style="padding: 10px; background-color: #217346; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000;"><h5 style="color:white;" > M01 Objectives</h5></div>
 
-<div id="header" style="padding: 0 10px; background-color: #217346; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000;">
-<h5 style="color:white;" > M01 Objectives</h5>
-  
-<div style="font-family: 'Roboto Condensed', Tauri, 'Hiragino Sans GB', 'Microsoft YaHei', STHeiti, SimSun, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'Segoe UI', AppleSDGothicNeo-Medium, 'Malgun Gothic', Verdana, Tahoma, sans-serif; font-size: 15px; overflow-x: hidden; overflow-y: auto; margin: 0px !important; padding: 20px; background-color: #ffffff; color: #222222; line-height: 1.6; background: #ffffff;">
-  
 **Session 1.1**
-
 - Open and close a workbook
 -   Navigate through a workbook and worksheet
 -   Select cells and ranges
@@ -27,7 +22,7 @@
 -   Resize columns and rows
 
 **Session 1.2**
--   Open and close a workbook
+- Open and close a workbook
 -   Navigate through a workbook and worksheet
 -   Select cells and ranges
 -   Plan and create a workbook
@@ -35,9 +30,6 @@
 -   Enter text, dates, and numbers
 -   Undo and redo actions
 -   Resize columns and rows
-
-</div>
-</div>
 
 ## How are you doing?
 Today, we begin with the material due for the 2nd week of the semester. The normal rhythms of an online course are in full swing. Before the end of this **week** you should have completed all of the Orientation activities. This coming Monday your first major **Excel** assignment is due. Don't forget! If you haven't started working through the assigned project in module 1, now is the time to get busy!
