@@ -1,4 +1,4 @@
-##  _Stick to it!_ <img align="right" src="../images/habits/persisting.jpg" width="20%" height="20%" />
+##  _Stick to it!_ <img align="right" src="../images/habits/persisting.jpg" width="15%" height="15%" />
 > Perservering in task through to completion; remaining focused. Looking for way to reach your goal when stuck.  Not giving up
 
 — _Habits of Mind 1_
