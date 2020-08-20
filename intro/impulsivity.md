@@ -9,7 +9,7 @@
 —_Daniel Goleman_
 
 <hr>
-<div id="header" style="padding: 10px; background-color: #217346; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000;"><h5 style="color:white;" > M01 Objectives</h5></div>
+<div id="header" style="padding: 10px; background-color: #217346; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: #000;"><h2 style="color:white;" > M01 Objectives</h2></div>
 
 
 
