@@ -1,4 +1,4 @@
-##[](#what-is-)What is "SAM Projects"?
+## [](#what-is-)What is "SAM Projects"?
 
 SAM Projects allows you to create and submit files in Excel and get your files graded within minutes. As you learn the application, you'll be following this work pattern:
 
