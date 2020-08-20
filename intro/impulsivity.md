@@ -8,7 +8,7 @@
 
 —_Daniel Goleman_
 
-##M01 Objectives
+## M01 Objectives
 **Session 1.1**
 - Open and close a workbook
 -   Navigate through a workbook and worksheet
