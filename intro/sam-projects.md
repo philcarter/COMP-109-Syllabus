@@ -7,7 +7,7 @@ SAM Projects allows you to create and submit files in Excel and get your files g
 
 ## [](#how-does-sam-projects-work?)How does SAM Projects work?
 
-<iframe src="https://play.vidyard.com/ibY8KC1VTgG35coVctAZtc" width="640" height="360" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe>
+<p><iframe src="https://play.vidyard.com/ibY8KC1VTgG35coVctAZtc" width="640" height="360" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>
 
 ## [](#some-things-to-keep-in-mind-about-sam-projects:)Some things to keep in mind about SAM Projects:
 
