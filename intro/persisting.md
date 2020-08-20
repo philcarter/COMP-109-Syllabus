@@ -1,4 +1,6 @@
-### <img src="../images/habits/persisting.jpg" width="10%" height="10%" />  _Stick to it!_
+##  _Stick to it!_ <img align="right" src="../images/habits/persisting.jpg" width="10%" height="10%" />
+
+<--!### <img src="../images/habits/persisting.jpg" width="10%" height="10%" />  _Stick to it!_-->
 
 > Perservering in task through to completion; remaining focused. Looking for way to reach your goal when stuck.  Not giving up
 
