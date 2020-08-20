@@ -1,4 +1,4 @@
-## _Take your time!_ <img align="right" src="../images/habits/managing_impulsivity.jpg" width="20%" height="20%" />
+## _Take your time!_ <img align="right" src="../images/habits/managing_impulsivity.jpg" width="15%" height="15%" />
 
 > Thinking before acting; remaining calm, thoughtful and deliberate
 
