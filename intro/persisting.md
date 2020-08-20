@@ -1,4 +1,4 @@
-### <img src="../images/habits/managing_impulsivity.jpg" width="10%" height="10%" />  _Stick to it!_
+### <img src="../images/habits/persisting.jpg" width="10%" height="10%" />  _Stick to it!_
 
 > Perservering in task through to completion; remaining focused. Looking for way to reach your goal when stuck.  Not giving up
 
