@@ -8,7 +8,8 @@ There are two options. The first option is the recommended resource, which gives
 
 ###### Option 1: Digital Textbook (**Recommended**)
  - Title: **SAM - SAM 365 & 2019 Assessments, Training and Projects Printed Access Card with Access to eBook, 1 term** 
- - ISBN: **`978-0-357-36946-3`**
+ - ISBN for the Cengage Website: **`978-0-357-36946-3`**
+ - ISBN for the SBCC Campus Store: **`978-0-357-36664-6`**
  - Price: $**80.00** (<a href="http://www.cengagebrain.com/course/4316390" target="_blank">**Cengage Website**</a> ) $100 (<a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>)
 
 > Order this item from either the <a href="http://www.cengagebrain.com/course/4316390" target="_blank">**Cengage Website**</a> or the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a> Do not buy this item from any other source. It will not work because the access code can only be used once.
