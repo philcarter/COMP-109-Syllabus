@@ -25,7 +25,12 @@ Four tasks worth 0 points. Failure to complete task by week 2 of the semester wi
 Maximum 3 points total.  There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions.  Each credit will be worth 0.25 points.
 
 ## Weighted Groups:
-The tests and assignments are packaged into three groups: Introductory, Intermediate, and Advanced. The Advanced portion is half the weight of the other two. The intent here is for you to explore advanced topics without impacting your course grade too much. For example, if you complete the first two groups with an A or A+, you may finish the third group with a C, and still be awarded a final grade of A. 
+The tests and assignments are packaged into three groups: 
+- **Introductory**: Modules 1 -  4 and Test 1 
+- **Intermediate**: Modules 5 -  8 and Test 2
+- **Advanced**:     Modules 9 - 12 and Test 3
+
+The Advanced portion is half the weight of the other two. The intent here is for you to explore advanced topics without impacting your course grade too much. For example, if you complete the first two groups with an A or A+, you may finish the third group with a C, and still be awarded a final grade of A. 
 
 ## Course Grade Scale
 
