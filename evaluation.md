@@ -8,7 +8,7 @@ There is a total of 100 points. The course grade is based solely upon completion
 
 The course is divided into two components:
 ## Tests 
-Each test consists of an exam and a project, each worth 5 points for a total of 30. Each test consists of an exam and project. The quizzes and exams will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
+Each test consists of an exam and a project, each worth 5 points for a total of 30. The quizzes and exams will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
 ## Assignments 
 24 activities each worth between 2 and  4 points for a total of 70.
