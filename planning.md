@@ -4,21 +4,13 @@
 
 ## Assignment Descriptions:
 
-###### Practice (non-graded) activities
-
 **SAM Training**:Each module has an interactive training activity. 
-
->Note: The first couple weeks, those activities are graded. Then they are optional, but highly recommended.
-
-**[Practice] End of Module (EOM) Project** echos the language and pedagogy of textbook narrative activities. It takes approximately 20-30 minutes to complete; the time will vary by student and number of steps of course.
-
-**[Practice] Skills Assessment Manager (SAM) Project** gives a different perspective using Excel, and will be the main resource to prepare you for the graded SAM project in the module. It follows the same progression of steps and module objectives as the SAM Project but uses an alternate scenario. Practice projects take approximately 30-45 minutes to complete. 
-
-###### Graded activities 
 
 **Textbook Project** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. This assignment will take most of your time every week. Average is about 3 to 4 hours.
 
 **End of Module (EOM) Project** echo the language and pedagogy of textbook narrative activities.  They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course.
+
+**[Practice] Skills Assessment Manager (SAM) Project** gives a different perspective using Excel, and will be the main resource to prepare you for the graded SAM project in the module. It follows the same progression of steps and module objectives as the SAM Project but uses an alternate scenario. Practice projects take approximately 30-45 minutes to complete. 
 
 **Skills Assessment Manager (SAM) Projects**:follow the same progression of steps, the same module objectives, and the same scenario as the [Practice] SAM Projects. However, in  SAM Project, the difficulty level is significantly increased from the [Practice] SAM projects, with step instruction language that is intentionally designed to promote critical thinking. Use the Practice projects as a guide. These projects will be the main resource to prepare you for the three semester Capstone Projects.
 
