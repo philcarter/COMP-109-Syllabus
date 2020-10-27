@@ -4,15 +4,22 @@
 
 ## Assignment Descriptions:
 
-**SAM Training**:Each module has an interactive training activity. 
+
+###Module Projects and Training
 
 **Textbook Project** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. This assignment will take most of your time every week. Average is about 3 to 4 hours.
 
-**End of Module (EOM) Project** echo the language and pedagogy of textbook narrative activities.  They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course.
+**EOM Project** echo the language and pedagogy of textbook narrative activities.  They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course.
 
-**[Practice] Skills Assessment Manager (SAM) Project** gives a different perspective using Excel, and will be the main resource to prepare you for the graded SAM project in the module. It follows the same progression of steps and module objectives as the SAM Project but uses an alternate scenario. Practice projects take approximately 30-45 minutes to complete. 
+**SAM Training** is an interactive training activity for each module. It is also used as an assessment for the Tests Modules.
 
-**Skills Assessment Manager (SAM) Projects**:follow the same progression of steps, the same module objectives, and the same scenario as the [Practice] SAM Projects. However, in  SAM Project, the difficulty level is significantly increased from the [Practice] SAM projects, with step instruction language that is intentionally designed to promote critical thinking. Use the Practice projects as a guide. These projects will be the main resource to prepare you for the three semester Capstone Projects.
+###Skills Assessment Manager Projects
+
+**SAM Project** is a practice project and gives a different perspective using Excel, and will be the main resource to prepare you for the graded SAM CT Project and SAM Capstone project. SAM Projects take approximately 30-45 minutes to complete. 
+
+**SAM CT Project** is a critical thinking activity and follows the same progression of steps, the same module objectives, and the same scenario as the [Practice] SAM Projects. However, in SAM Project, the difficulty level is significantly increased from the [Practice] SAM projects, with step instruction language that is intentionally designed to promote critical thinking. Use the Practice projects as a guide. These projects will be the main resource to prepare you for the three semester Capstone Projects.
+
+**SAM Capstone Project** is a culminating project consisting of four SAM projects. It follows the same progression of steps and module objectives as the SAM Project. SAM Capstone Projects are used as rigorous assessments for the Tests Modules.  
 
 
 ## Test Schedule:
