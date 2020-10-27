@@ -5,19 +5,18 @@
 ## Assignment Descriptions:
 
 ### Module Projects and Training
-**Textbook Project** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. This assignment will take most of your time every week. Average is about 3 to 4 hours.
+**Textbook Project** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. This assignment will take most of your time every week. Average is about 2 to 3 hours. (Budget 4 hours)
 
-**EOM Project** echo the language and pedagogy of textbook narrative activities.  They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course.
+**EOM Project** End-of-Module (EOM) projects echo the language and pedagogy of textbook narrative activities.  They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course. These projects are used as additional module practice (Budget 1 hour)
 
-**SAM Training** is an interactive training activity for each module. It is also used as an assessment for the Tests Modules.
+**SAM Training** is an interactive training activity for each module. It is also used as an assessment for the Tests Modules. (Budget 1 hour)
 
 ### Skills Assessment Manager Projects
-**SAM Project** is a practice project and gives a different perspective using Excel, and will be the main resource to prepare you for the graded SAM CT Project and SAM Capstone project. SAM Projects take approximately 30-45 minutes to complete. 
+**SAM Projects** measure students’ mastery of module learning objectives. Each project covers over 90% of the gradable module objectives and takes approximately 30-45 minutes to complete; the time will vary by student and number of steps. These projects are used as additional project practice to prepare you for the graded SAM CT Project and SAM Capstone project. SAM Projects take approximately 30-45 minutes to complete. (Budget 1.5 hours) 
 
-**SAM CT Project** is a critical thinking activity and follows the same progression of steps, the same module objectives, and the same scenario as the [Practice] SAM Projects. However, in SAM Project, the difficulty level is significantly increased from the [Practice] SAM projects, with step instruction language that is intentionally designed to promote critical thinking. Use the Practice projects as a guide. These projects will be the main resource to prepare you for the three semester Capstone Projects.
+**SAM CT Project** is a critical thinking activity and follows the same progression of steps, the same module objectives, and the same scenario as the [Practice] SAM Projects. However, in SAM Project, the difficulty level is significantly increased from the [Practice] SAM projects, with step instruction language that is intentionally designed to promote critical thinking. Use the Practice projects as a guide. These projects will be the main resource to prepare you for the three semester Capstone Projects.  SAM Projects take approximately 45-60 minutes to complete. (Budget 2 hours) 
 
-**SAM Capstone Project** is a culminating project consisting of four SAM projects. It follows the same progression of steps and module objectives as the SAM Project. SAM Capstone Projects are used as rigorous assessments for the Tests Modules.  
-
+**SAM Capstone Projects** measure students’ mastery of learning objectives across multiple modules. Each Capstone project covers key skills across the full level (Introductory, Intermediate, or Advanced) of modules. They take approximately 50-75 minutes to complete; the time will vary by student and number of steps. SAM Capstone Projects are used as rigorous assessments for the Tests Modules. (Budget 2.0 hours)  
 
 ## Test Schedule:
 Please check the Modules for Test 1 and Test 2 due dates!
