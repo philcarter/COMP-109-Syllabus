@@ -8,8 +8,8 @@ There are two options. The first option is the recommended resource, which gives
 
 ###### Option 1: Digital Textbook (**Recommended**)
  - Title: **SAM - SAM 365 & 2019 Assessments, Training and Projects Printed Access Card with Access to eBook, 1 term** 
- - ISBN for the  (<a href="http://www.cengagebrain.com/course/4316390" target="_blank">**Cengage Website**</a> ):**``** Price: $**80.00** 
- - ISBN for the (<a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>): **`978-0-357-36840-4`** Price $100
+ - ISBN for the <a href="http://www.cengagebrain.com/course/4316390" target="_blank">**Cengage Website**</a>:**``** Price: $**80.00** 
+ - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`978-0-357-36840-4`** Price $100
 
 > Order this item from either the <a href="http://www.cengagebrain.com/course/4316390" target="_blank">**Cengage Website**</a> or the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a> Do not buy this item from any other source. It will not work because the access code can only be used once.
 
@@ -20,8 +20,8 @@ There are two options. The first option is the recommended resource, which gives
 ###### Option 2 Same as above but with a hardcopy  textbook.
 
 - Title: e-Pack: New Perspectives Microsoft® Office 365 & Excel 2019 Comprehensive, Loose-leaf Version + SAM 365 & 2019 Assessments, Training and Projects Instant Access with Access to eBook, 1 term.
- - ISBN for the  (<a href="http://www.cengagebrain.com/course/4316390" target="_blank">**Cengage Website**</a> ): **`978-0-357-36946-3`** Price: $110
- - ISBN for the (<a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>): **`978-0-357-26913-8`** Price $145
+ - ISBN for the <a href="http://www.cengagebrain.com/course/4316390" target="_blank">**Cengage Website**</a>: **`978-0-357-36946-3`** Price: $110
+ - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`978-0-357-26913-8`** Price $145
  
 
 - ISBN: `978-0-357-39783-6.`
