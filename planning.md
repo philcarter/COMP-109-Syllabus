@@ -6,7 +6,7 @@
 ###### Module Projects and Training
 **Textbook Project** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. This assignment will take most of your time every week. Average is about 2 to 3 hours. (Plan 4 hours)
 
-**EOM Project** End-of-Module (EOM) projects echo the language and pedagogy of textbook narrative activities. Most modules include 2 EOM projects, each covering approximately 50% of the gradable module objectives (more than 90% of module objectives between the 2 EOM projects). They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course. These projects are used as additional practice (Plan 1 hour)
+**EOM Project** End-of-Module (EOM) projects echo the language and pedagogy of textbook narrative activities. Most modules include 2 EOM projects, each covering approximately 50% of the gradable module objectives (more than 90% of module objectives between the 2 EOM projects). They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course. These projects are used as additional practice (Plan 1 hour) and are also Extra Credit.
 
 **SAM Training** is an interactive training activity for each module. It is also used as an assessment for the Tests Modules. (Plan 1 hour)
 
