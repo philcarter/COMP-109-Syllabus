@@ -19,7 +19,6 @@
 Please check the Modules for Test 1 and Test 2 due dates!
 
 Test 3:
-* Exam is due on the Monday during the Finals Week 11:55pm
 * Capstone Project is due on the Wednesday during the Finals Week 11:55pm. 
 
 ## Late Submissions
