@@ -23,7 +23,7 @@ The bottom page of the syllabus provides a schedule for your assignments. The fi
 Four tasks worth 0 points. Failure to complete task by week 2 of the semester will result in being dropped from the course. 
 
 ## Extra Credit
-Maximum 3 points total. There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) prohects.
+Maximum 3 points total. There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) projects.
 
 ## Weighted Groups:
 The tests and assignments are packaged into three groups: 
