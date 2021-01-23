@@ -59,7 +59,7 @@ You should always use the most current version of your preferred browser. Your b
 
 A fully installed Microsoft Excel  version is required to complete online projects. Online projects do not work with the web based versions[^1] of Microsoft Excel.
 
-*   Windows 8 or later: Microsoft Excel 2019/365 Home, Premium, or University
+*   Windows 10: Microsoft Excel 2019.(This can be installed via Office 365)
 *   MacOS 10.12 or later: Microsoft Excel 365 Home/Premium or Microsoft Excel 2019 Home/Student
 
 > MacOS Note: Some project steps are different on Microsoft Excel for Mac and include Mac Hints for students.
