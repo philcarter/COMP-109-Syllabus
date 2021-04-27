@@ -6,8 +6,6 @@
 ## Total Points 
 There is a total of 100 points. Each point represents one percentage of your total grade!
 
-The course is divided into the following components:
-
 ### Orientation
 Four tasks worth 0 points. Failure to complete task by week 2 of the semester will result in being dropped from the course. 
 
@@ -19,7 +17,7 @@ Four tasks worth 0 points. Failure to complete task by week 2 of the semester wi
    
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
-##3 Tests 
+### Tests 
 Each test consists of an exam and a project, each worth 6 points for a total of 30 ( Final consists of project only). The exams and projects will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
 ### Extra Credit
