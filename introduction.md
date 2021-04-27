@@ -59,7 +59,7 @@ Although COMP 109 is designed for Excel beginners, you probably should feel some
 
 **SAM** - Skills Assessment Manager provided by Cengage.
 
-**EOM** - End of Module projects
+**EOM** - End of Module projects are used for training and graded as Extra Credit
 
 **Capstone** Projects part of the Final and Midterm assessments
 
