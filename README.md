@@ -10,7 +10,6 @@
 <a href="https://philcarter.github.io/COMP-109-Syllabus/resources.html#textbook">Textbook</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/resources.html#system-requirements">System Requirements</a>
 ##### <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html">Evaluation</a>
-<a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#total-points">Total Points</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#assignments">Assignments</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#tests)">Tests</a> |
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#Orientation">Tasks</a> | 
