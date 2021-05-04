@@ -1,7 +1,7 @@
 ##### [Introduction](introduction) | [Resources](resources) | Evaluation | [Planning](planning) | [Important](important)
 ***
 
-[Total Points](#total-points) | [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Extra Credit](#extra-credit) | [Letter Grades](#course-grade-scale)
+[Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Extra Credit](#extra-credit) | [Grading](#course-grade-scale)
 
 ## Total Points 
 There is a total of 100 points. Each point represents one percentage of your total grade!
@@ -23,12 +23,6 @@ Each test consists of an exam and a project, each worth 6 points for a total of 
 ### Extra Credit
 Maximum 3 points total. There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) projects.
 
-## Weighted Groups:
-The tests and assignments are packaged into three groups: 
-- **Introductory**: Modules 1 -  4 and Test 1 
-- **Intermediate**: Modules 5 -  8 and Test 2
-- **Advanced**:     Modules 9 - 12 and Test 3
-
 ## Course Grade Scale
 
 | Letter grade | Percentage | GPA  |
@@ -46,3 +40,9 @@ The tests and assignments are packaged into three groups:
 | **D** | 63–66% | 1.00 |
 | D- | 60–62% | 0.70 |
 | **F** | 0–59% | 0.00 |
+
+## Weighted Groups:
+The tests and assignments are packaged into three groups: 
+- **Introductory**: Modules 1 -  4 and Test 1 
+- **Intermediate**: Modules 5 -  8 and Test 2
+- **Advanced**:     Modules 9 - 12 and Test 3
