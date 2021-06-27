@@ -14,6 +14,8 @@ Four tasks worth 0 points. Failure to complete task by week 2 of the semester wi
    *   12 Textbook Projects 20 points each 
    *   2 SAM Training 30 points each 
    *   10 SAM Projects 40 points each
+
+NOTE: Textbook assignments are an all or nothing mandatory activity. You have to score 70% or better and you will get full credit (20 points). If your final submission is below 70%, you will get 0 points, AND you will not be able to proceed to the next module! Late submission penalties apply!
    
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
