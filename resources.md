@@ -8,8 +8,8 @@ There are two options. The first option is the recommended resource, which gives
 
 ###### Option 1: Digital Textbook (**Recommended**)
  - Title: **SAM - SAM 365 & 2019 Assessments, Training and Projects Printed Access Card with Access to eBook, 1 term** 
- - ISBN for the <a href="http://www.cengagebrain.com/course/4553331" target="_blank">**Cengage Website**</a>:**``** Price: $**80.00** 
- - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`978-0-357-36840-4`** Price $100
+ - ISBN for the <a href="http://www.cengagebrain.com/course/4553331" target="_blank">**Cengage Website**</a>:**``** Price: $**79.00** 
+ - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`978-0-357-36840-4`** Price ~ $100
 
 > Order this item from either the <a href="http://www.cengagebrain.com/course/4553331" target="_blank">**Cengage Website**</a> or the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a> Do not buy this item from any other source. It will not work because the access code can only be used once.
 
@@ -64,4 +64,8 @@ A fully installed Microsoft Excel  version is required to complete online proje
 
 > MacOS Note: Some project steps are different on Microsoft Excel for Mac and include Mac Hints for students.
 
+SBCC Students have access to install Microsoft Office products via SBCC Pipeline for free. Please see the Business Computer Lab for help, or you also may schedule a zoom session with me.  
+
+SBCC Students who have an Apple computer, may also  have access to a SBCC Virtual Desktop that has Microsoft Windows and MS Office 2019 installed. Please contact me, so I can forward your information to SBCC support to create an account for you.  
+ 
 [^1]: OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop. 
