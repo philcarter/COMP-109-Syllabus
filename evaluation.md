@@ -20,10 +20,10 @@ NOTE: Textbook assignments are an all or nothing mandatory activity. You have to
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
 ### Tests 
-Each test consists of an exam and a project, each worth 60 points for a total of 300 ( Final consists of project only). The exams and projects will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
+Each test consists of an exam and a project, each worth between 40 and 60 points for a total of 300 ( Final consists of project only and is worth 100 points). The exams and projects will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
 ### Extra Credit
-Maximum 40 points total. There will opportunities to earn extra credit. Participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) projects.
+There will opportunities to earn extra credit for a maximum of 40 points total. Complete end-of-module assignments(2 pts each), participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) projects.
 
 ## Course Grade Scale
 
