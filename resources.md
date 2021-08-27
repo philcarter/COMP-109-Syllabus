@@ -5,7 +5,7 @@
 ## Textbook
 
  - Title: **LMS INTG SAM 365/2019 ACCESS CARD** 
- - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`9780357368404`** Price ~ $106.65
+ - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`9780357368404`** Price: $106.65
 
 
 ###### Cengage Unlimited
