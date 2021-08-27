@@ -4,15 +4,14 @@
 
 ## Textbook
 
-There are two options. The first option is the recommended resource, which gives you access to the electronic version of the textbook. The second option is the same as option 1 PLUS a physical copy of the textbook. 
+ - Title: **LMS INTG SAM 365/2019 ACCESS CARD** 
+ - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`9780357368404`** Price ~ $106.65
 
-###### Option 1: Digital Textbook (**Recommended**)
- - Title: **SAM - SAM 365 & 2019 Assessments, Training and Projects Printed Access Card with Access to eBook, 1 term** 
-
-> CURRENTLY CENGAGE PUBLISHER ARE CHARGING THE WRONG PRICE FOR BOTH CAMPUS BOOKSTORE AND THEIR WEBSITE. A WORKORDER WENT IN LAST THURSDAY. STILL WAITING ON A FIX. PLEASE USE TERMPORARY ACCESS FOR NOW.  Do not buy this item from any other source. It will not work because the access code can only be used once.
 
 ###### Cengage Unlimited
+
 You will see many references to CENGAGE UNLIMITED (CU) when accessing SAM or the Cengage Website. CU is not required for this course and it is more expensive then the options listed above! But if you are enrolled in another course this semester that uses CENGAGE UNLIMITED, CU is a smart choice and you will not have to purchase above option 1 or 2 for this course. The materials required for this class—and any other classes using Cengage products—are included in ONE Cengage Unlimited subscription. For $119.99 per semester, you get access to ALL your Cengage eTextbooks and online homework in ONE place. Four FREE hardcopy textbook rentals are also available for select titles, just pay $7.99 S&H each.
+
 
 ## System Requirements
 
