@@ -28,9 +28,7 @@ Now, I do understand that everyone has the occasional problem and finishes their
 
 So here is my compromise going forward:
 
-```There will be no extensions and late submissions accepted during the first two weeks of the semester!```  
-
-For the remainder of the semester: Make sure you know exactly when your assignments are due to be handed in and plan your work so that you can meet the submission deadlines. Consult your syllabus or ask in the module Discussion forums or send me a message via inbox if you are unsure of an assignment/assessment deadline and submission procedures.
+Make sure you know exactly when your assignments are due to be handed in and plan your work so that you can meet the submission deadlines. Consult your syllabus or ask in the module Discussion forums or send me a message via inbox if you are unsure of an assignment/assessment deadline and submission procedures.
 
 Give yourself as much time as possible to complete each assignment so you can complete it to the best of your ability and you don't have to rush or worry about incurring late submission penalties. Avoid leaving completing an assignment to the last minute/hour/day just in case unexpected problems occur. I would highly suggest to have all your assignments done **at least one day prior** to the submission.
 
@@ -44,7 +42,7 @@ Again posting questions about a assignment on the same day it is due will not gi
 
 ```Also, I might not be able to respond to emails or "emergencies" on any given due date, so plan accordingly.```
 
-Assignments: Late submissions without a granted extension by me will incur a 5% daily penalty off the grade during the late submission period of 14 days. After that even late work will not be accepted. 
+Assignments: Late submissions without a granted extension by me will incur a 5% daily penalty off the grade during the late submission period of six days. After that even late work will not be graded. 
 
 Exams and Final Student Project: Any late submissions will be graded with a 0 unless an extension has been granted! 
 
