@@ -28,12 +28,12 @@ Now, I do understand that everyone has the occasional problem and finishes their
 
 So here is my compromise going forward:
 
+**Due Dates are normally set for Mondays and Wednesdays, 11:55 pm Pacific Time. The late submission period ends the following Sunday! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that even late work will not be graded.
+
 Make sure you know exactly when your assignments are due to be handed in and plan your work so that you can meet the submission deadlines. Consult your syllabus or ask in the module Discussion forums or send me a message via inbox if you are unsure of an assignment/assessment deadline and submission procedures.
 
 Give yourself as much time as possible to complete each assignment so you can complete it to the best of your ability and you don't have to rush or worry about incurring late submission penalties. Avoid leaving completing an assignment to the last minute/hour/day just in case unexpected problems occur. I would highly suggest to have all your assignments done **at least one day prior** to the submission.
-
-**Due Dates are normally set for Mondays and Wednesdays, 11:55 pm Pacific Time. The late submission period ends the following Sunday! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period. After that even late work will not be graded.** 
-
+ 
 All deadlines in Canvas are based on Pacific Standard Time (PST). If you live in another time zone, remember to make the necessary adjustments in your planning.
 
 Participation in the Q & A discussions each week can be helpful. This is a place to post questions as well as respond to others. If you respond to other student’s questions, you may receive extra credit for assisting. This gives you an opportunity to help others as well as learn in the process. That is the great part of an online discussion like this. We are a learning community.
