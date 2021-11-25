@@ -32,7 +32,7 @@ Make sure you know exactly when your assignments are due to be handed in and pla
 
 Give yourself as much time as possible to complete each assignment so you can complete it to the best of your ability and you don't have to rush or worry about incurring late submission penalties. Avoid leaving completing an assignment to the last minute/hour/day just in case unexpected problems occur. I would highly suggest to have all your assignments done **at least one day prior** to the submission.
 
-Due Dates are normally set for Mondays and Wednesdays, 11:55 pm Pacific Time.
+**Due Dates are normally set for Mondays and Wednesdays, 11:55 pm Pacific Time. The late submission period is the following Sunday! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period. After that even late work will not be graded.** 
 
 All deadlines in Canvas are based on Pacific Standard Time (PST). If you live in another time zone, remember to make the necessary adjustments in your planning.
 
@@ -41,10 +41,6 @@ Participation in the Q & A discussions each week can be helpful. This is a place
 Again posting questions about a assignment on the same day it is due will not give you enough time to get a helpful response.
 
 ```Also, I might not be able to respond to emails or "emergencies" on any given due date, so plan accordingly.```
-
-Assignments: Late submissions without a granted extension by me will incur a 5% daily penalty off the grade during the late submission period of six days. After that even late work will not be graded. 
-
-Exams and Projects: Any missing/late submissions will be graded with a 0 unless an extension has been granted! 
 
 ## Emergency Extensions
 If, however, life has conspired against you to prevent you from meeting an assignment deadline don't despair. I recognize that you may suffer from a sudden illness or other serious or significant event that is unforeseen and/or unpreventable and which adversely affects your ability to complete an assignment or assessment; in such cases you may request an extension for an assignment without penalty, but you must ask **more than one day** before the assignment is due. 
