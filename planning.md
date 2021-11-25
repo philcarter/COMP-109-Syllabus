@@ -22,7 +22,7 @@ Test 3:
 ## Late Submissions
 **Prepare properly and help avoid panic and penalties**
 
-I prefer not to accept any late submissions. You might even see older references in this course stating “No late work will be accepted”. Scheduling and submitting your work on time is extremely important in the workplace - you may loose your job if work is submitted late!
+I prefer not to accept any late submissions. Scheduling and submitting your work on time is extremely important in the workplace - you may loose your job if work is submitted late!
 
 Now, I do understand that everyone has the occasional problem and finishes their work late. And for this course it is actually very important to complete your assignments [even late], because the next modules and especially the final student project always build on what you already have learned.
 
@@ -44,7 +44,7 @@ Again posting questions about a assignment on the same day it is due will not gi
 
 Assignments: Late submissions without a granted extension by me will incur a 5% daily penalty off the grade during the late submission period of six days. After that even late work will not be graded. 
 
-Exams and Final Student Project: Any late submissions will be graded with a 0 unless an extension has been granted! 
+Exams and Projects: Any missing/late submissions will be graded with a 0 unless an extension has been granted! 
 
 ## Emergency Extensions
 If, however, life has conspired against you to prevent you from meeting an assignment deadline don't despair. I recognize that you may suffer from a sudden illness or other serious or significant event that is unforeseen and/or unpreventable and which adversely affects your ability to complete an assignment or assessment; in such cases you may request an extension for an assignment without penalty, but you must ask **more than one day** before the assignment is due. 
