@@ -42,12 +42,9 @@ You should always use the most current version of your preferred browser. Your b
 A fully installed Microsoft Excel  version is required to complete online projects. Online projects do not work with the web based versions[^1] of Microsoft Excel.
 
 *   Windows 10: Microsoft Excel 2019.(This can be installed via Office 365)
-*   MacOS 10.12 or later: Microsoft Excel 365 Home/Premium or Microsoft Excel 2019 Home/Student
 
-> MacOS Note: Some project steps are different on Microsoft Excel for Mac and include Mac Hints for students.
-
+> MacOS Note:  This course does not support MS Excel with an Apple/Mac OS. Some project steps are different on Microsoft Excel for Mac and may include Mac Hints for students.SBCC Students who have an Apple computer, may also have access to a SBCC Virtual Desktop that has Microsoft Windows and MS Office 2019 installed or may install Windows 10 as an additional operating system on their computer. Please contact me, so I can forward your information to SBCC support to create an account for you.  
+ 
 SBCC Students have access to install Microsoft Office products via SBCC Pipeline for free. Please see the Business Computer Lab for help, or you also may schedule a zoom session with me.  
 
-SBCC Students who have an Apple computer, may also  have access to a SBCC Virtual Desktop that has Microsoft Windows and MS Office 2019 installed. Please contact me, so I can forward your information to SBCC support to create an account for you.  
- 
 [^1]: OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop. 
