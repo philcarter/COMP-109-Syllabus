@@ -4,13 +4,16 @@
 
 ## Textbook
 
- - Title: **LMS INTG SAM 365/2019 ACCESS CARD** 
- - ISBN for the <a href="https://www.sbccbooks.com/" target="_blank">**SBCC Campus Store**</a>: **`9780357368404`** Price: $106.65
+ - Title: **LMS Integrated SAM 365 & 2019 with MindTap Reader, 1 term Instant Access, 1st Edition**  Price: **$80.00** 
+ - Authors: **SAM**
+ - ISBN10: **0-357-36946-7**
+ - ISBN13: **978-0-357-36946-3**
+ - **© 2020 Cengage**
 
+###### Notes:
+- This course resource is only available through Cengage Inclusive Access. Your ebook and acccess card will be available for purchase through your Canvas COMP 109 page. 
 
-###### Cengage Unlimited
-
-You will see many references to CENGAGE UNLIMITED (CU) when accessing SAM or the Cengage Website. CU is not required for this course and it is more expensive then the options listed above! But if you are enrolled in another course this semester that uses CENGAGE UNLIMITED, CU is a smart choice and you will not have to purchase above option 1 or 2 for this course. The materials required for this class—and any other classes using Cengage products—are included in ONE Cengage Unlimited subscription. For $119.99 per semester, you get access to ALL your Cengage eTextbooks and online homework in ONE place. Four FREE hardcopy textbook rentals are also available for select titles, just pay $7.99 S&H each.
+- You will see many references to CENGAGE UNLIMITED (CU) when accessing SAM or the Cengage Website. CU is not required for this course and it is more expensive then the option listed above! But if you are enrolled in another course this semester that uses CENGAGE UNLIMITED, CU is a smart choice and you will not have to purchase the stand alone resource for this course. The materials required for this class—and any other classes using Cengage products—are included in ONE Cengage Unlimited subscription. For $119.99 per semester, you get access to ALL your Cengage eTextbooks and online homework in ONE place. Four FREE hardcopy textbook rentals are also available for select titles, just pay $7.99 S&H each.
 
 
 ## System Requirements
