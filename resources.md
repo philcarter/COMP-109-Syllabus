@@ -11,7 +11,7 @@
  - **© 2020 Cengage**
 
 ###### Notes:
-- This course resource is only available through Cengage Inclusive Access. Your ebook and acccess card will be available for purchase through your Canvas COMP 109 page. 
+- Your ebook and acccess card will be only available for purchase through your Canvas COMP 109 course. 
 
 - You will see many references to CENGAGE UNLIMITED (CU) when accessing SAM or the Cengage Website. CU is not required for this course and it is more expensive then the option listed above! But if you are enrolled in another course this semester that uses CENGAGE UNLIMITED, CU is a smart choice and you will not have to purchase the stand alone resource for this course. The materials required for this class—and any other classes using Cengage products—are included in ONE Cengage Unlimited subscription. For $119.99 per semester, you get access to ALL your Cengage eTextbooks and online homework in ONE place. Four FREE hardcopy textbook rentals are also available for select titles, just pay $7.99 S&H each.
 
