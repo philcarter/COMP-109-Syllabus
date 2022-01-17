@@ -5,12 +5,14 @@
 ## Welcome to Microsoft Excel 2019!
 * Instructor: Phil Carter
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu).[^1]
-* Office Hours: Thursdays, 5:00 pm to 6:30pm.
-* Office: [Video Conference (Zoom)](https://sbcc.zoom.us/j/8499530488).[^2]
+* Office Hours: Thursdays, 5:00 pm to 6:30pm.[^2]
+* Office: [Video Conference (Zoom)](https://sbcc.zoom.us/j/8499530488).[^3]
 
-[^1]: Please use CANVAS inbox for messaging
+Note:  
 
-[^2]: I can also meet on campus by appointment on Wednesday or Friday. (Not Applicable in 2021)
+[^1]: Please use CANVAS inbox for messaging. Do not use my email account unless there is an emergency.
+[^2]: Please let me know via Canvas messaging no later then 9:00pm the night before so that I know to expect you. Also include the topic/assignment/issue you want to discuss. 
+[^3]: I can also meet on campus by appointment on Wednesday or Friday. (Not Applicable in 2022)
 
 ## Course Description
 Comp 109 covers core spreadsheet skills using Microsoft Excel and also introduces the student to some of the advanced features of Excel, including functions and formulas, creating workbooks/worksheets, formatting, graphs and charts.
