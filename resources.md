@@ -4,17 +4,12 @@
 
 ## Textbook (Required)
 
-##### **Inclusive Access-Course Materials Will Be Available Thru Canvas 1St Day Of Class**
+##### Inclusive Access-Course Materials Will Be Available Thru Canvas 1St Day Of Class
+ 
  - Title: **LMS Integrated SAM 365 & 2019 with MindTap Reader, 1 term Instant Access, 1st Edition**  Price: **$82.35** 
  - Authors: **SAM**
  - ISBN13: **978-6-312-71715-7**
  - **© 2020 Cengage**
-
-###### Notes:
-- Your ebook and acccess card will be only available for purchase through your Canvas COMP 109 course. 
-
-- You will see many references to CENGAGE UNLIMITED (CU) when accessing SAM or the Cengage Website. CU is not required for this course and it is more expensive then the option listed above! But if you are enrolled in another course this semester that uses CENGAGE UNLIMITED, CU is a smart choice and you will not have to purchase the stand alone resource for this course. The materials required for this class—and any other classes using Cengage products—are included in ONE Cengage Unlimited subscription. For $119.99 per semester, you get access to ALL your Cengage eTextbooks and online homework in ONE place. Four FREE hardcopy textbook rentals are also available for select titles, just pay $7.99 S&H each.
-
 
 ## System Requirements
 
