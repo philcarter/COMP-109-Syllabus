@@ -2,12 +2,12 @@
 ***
 [Textbook](#textbook) | [System Requirements](#system-requirements)
 
-## Textbook
+## Textbook (Required)
 
- - Title: **LMS Integrated SAM 365 & 2019 with MindTap Reader, 1 term Instant Access, 1st Edition**  Price: **$80.00** 
+##### **Inclusive Access-Course Materials Will Be Available Thru Canvas 1St Day Of Class**
+ - Title: **LMS Integrated SAM 365 & 2019 with MindTap Reader, 1 term Instant Access, 1st Edition**  Price: **$82.35** 
  - Authors: **SAM**
- - ISBN10: **0-357-36946-7**
- - ISBN13: **978-0-357-36946-3**
+ - ISBN13: **978-6-312-71715-7**
  - **© 2020 Cengage**
 
 ###### Notes:
