@@ -2,10 +2,8 @@
 ***
 [Textbook](#textbook) | [System Requirements](#system-requirements)
 
-## Textbook (Required)
+## Textbook & Access Code (Inclusive Access-Course Materials Will Be Available Thru Canvas 1st Day Of Class)
 
-##### Inclusive Access-Course Materials Will Be Available Thru Canvas 1St Day Of Class
- 
  - Title: **LMS Integrated SAM 365 & 2019 with MindTap Reader, 1 term Instant Access, 1st Edition**  Price: **$82.35** 
  - Authors: **SAM**
  - ISBN13: **978-6-312-71715-7**
