@@ -10,10 +10,11 @@ There is a total of 1000 points. Each 10 point represents one percentage of your
 Four tasks worth 0 points. Failure to complete any of those four tasks by the second week of the semester will result in being dropped from the course. 
 
 ### Assignments 
-24 activities each worth between 2 and 4 points for a total of 700 points.
-   *   12 Textbook Projects 20 points each 
-   *   2 SAM Training 30 points each 
-   *   10 SAM Projects 40 points each
+24 activities each worth between 15 and 30 points for a total of 700 points.
+   *   12 Textbook Projects 15 points each
+   *   12 Discussions 15 points each 
+   *   2 SAM Training 20 points each 
+   *   10 SAM Projects 30 points each
 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
