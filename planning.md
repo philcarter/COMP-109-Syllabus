@@ -17,7 +17,7 @@
 Please check the Modules for Test 1 and Test 2 due dates!
 
 Test 3:
-* Capstone Project is due on the Wednesday of the Finals Week 11:55pm. 
+* Capstone Project is due on the Wednesday of the Finals Week 8:59pm. 
 
 ## Late Submissions
 **Prepare properly and help avoid panic and penalties**
@@ -28,7 +28,7 @@ Now, I do understand that everyone has the occasional problem and finishes their
 
 So here is my compromise going forward:
 
-**Due Dates are normally set for Mondays and Wednesdays, 11:55 pm Pacific Time. The late submission period ends the following Sunday! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that even late work will not be graded.
+**Due Dates are normally set for Mondays and Wednesdays, 8:59 pm Pacific Time. The late submission period ends the following Sunday! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that even late work will not be graded.
 
 Make sure you know exactly when your assignments are due to be handed in and plan your work so that you can meet the submission deadlines. Consult your syllabus or ask in the module Discussion forums or send me a message via inbox if you are unsure of an assignment/assessment deadline and submission procedures.
 
