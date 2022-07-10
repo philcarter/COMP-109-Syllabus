@@ -22,7 +22,7 @@ The bottom page of the syllabus provides a schedule for your assignments. The fi
 Each test consists of an exam and a project, each worth between 40 and 60 points for a total of 300 ( Final consists of project only and is worth 100 points). The exams and projects will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
 ### Extra Credit
-There will opportunities to earn extra credit for a maximum of 40 points total. Complete end-of-module assignments(2 pts each), participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) projects.
+There will opportunities to earn extra credit for a maximum of 40 points total. Complete end-of-module assignments(2 pts each), participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) projects. Note: Canvas does not calculate extra credit from an integrated application such as SAM. The Extra Credit has to be assigned as a normal activity in CANVAS first, and after the due date, it has to be zero out the possible points to capture the extra credit correctly. You grade might drop temporarily when you first submit this activity if you did not get the full 2 points, but it will adjust correctly after the due date. 
 
 ## Course Grade Scale
 
