@@ -14,10 +14,9 @@
 **Capstone** projects measure students’ mastery of learning objectives across multiple modules. Each Capstone project covers key skills across the full level (Introductory, Intermediate, or Advanced) of modules. They take approximately 50-75 minutes to complete; the time will vary by student and number of steps. SAM Capstone Projects are used as rigorous assessments for the Tests Modules, and each one is worth 6%.(Plan 2 hours)  
 
 ## Test Schedule:
-Please check the Modules for Test 1 and Test 2 due dates!
+Exams are available for 4 days and capstone projects are available for 6 days! There are no late submissions for tests!
 
-Test 3:
-* Capstone Project is due on the Wednesday of the Finals Week 8:59pm. 
+Please check the Modules for Test 1 and Test 2 exact available and due dates! Test 3 - Capstone Project is due on the Wednesday of the Finals Week 8:59pm. 
 
 ## Late Submissions
 **Prepare properly and help avoid panic and penalties**
