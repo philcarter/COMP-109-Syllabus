@@ -48,6 +48,6 @@ SBCC Students have access to install Microsoft Office products via SBCC Pipeline
 
 > Office 365 users: All the activities should work with using Office 365, but be aware that Office 365 is constantly updated, anything minor from deleting new fonts and Themes to renaming/introducing new featuers up to major upgrades to the latest Office version. Textbook publishers can not respond quickly enough, so there might be times where you will run into issues.
 
-If you do not have the recommended operating system and office version, you should consider either using the Business Communication labs on SBCC main campus, or using our SBCC Virtual Desktop Infrastructure(VDI). Here are the [instructions](https://docs.google.com/document/d/1duD0mKjnK5eJka20VJgY-DK_a2k3gigrPG4U546Ma2I/edit) for using VDI is to be found at 
+If you do not have the recommended operating system and office version, you should consider either using the Business Communication labs on SBCC main campus, or using our SBCC Virtual Desktop Infrastructure(VDI). Here are the [instructions](https://docs.google.com/document/d/1duD0mKjnK5eJka20VJgY-DK_a2k3gigrPG4U546Ma2I/edit) for using VDI. 
 
 [^1]: OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop.
