@@ -34,14 +34,20 @@ You should always use the most current version of your preferred browser. Your b
 *   Graphics: DirectX, 64+ MB
 *   Sound (for some content)
 
+>Note: No chromebooks or personal phones(ios/android)
+
 #### Microsoft Excel
 
 A fully installed Microsoft Excel  version is required to complete online projects. Online projects do not work with the web based versions[^1] of Microsoft Excel.
 
-*   Windows 10: Microsoft Excel 2019.(This can be installed via Office 365)
+*   Windows 10: Microsoft Excel 2019.(This can be installed via Office 365). Check your Office version: [About Office: What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19?ui=en-us&rs=en-us&ad=us)
 
-> MacOS Note:  This course does not support MS Excel with an Apple/Mac OS. Some project steps are different on Microsoft Excel for Mac and may include Mac Hints for students.SBCC Students who have an Apple computer, may also have access to a SBCC Virtual Desktop that has Microsoft Windows and MS Office 2019 installed or may install Windows 10 as an additional operating system on their computer. Please contact me, so I can forward your information to SBCC support to create an account for you.  
- 
 SBCC Students have access to install Microsoft Office products via SBCC Pipeline for free. Please see the Business Computer Lab for help, or you also may schedule a zoom session with me.  
 
-[^1]: OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop. 
+> MacOS:  This course does not support MS Excel with an Apple/Mac OS. Some project steps are different on Microsoft Excel for Mac and may include Mac Hints for students.SBCC Students who have an Apple computer, may also have access to a SBCC Virtual Desktop that has Microsoft Windows and MS Office 2019 installed or may install Windows 10 as an additional operating system on their computer. 
+
+> Office 365 users: All the activities should work with using Office 365, but be aware that Office 365 is constantly updated, anything minor from deleting new fonts and Themes to renaming/introducing new featuers up to major upgrades to the latest Office version. Textbook publishers can not respond quickly enough, so there might be times where you will run into issues.
+
+If you do not have the recommended operating system and office version, you should consider either using the Business Communication labs on SBCC main campus, or using our SBCC Virtual Desktop Infrastructure(VDI). Here are the [instructions](https://docs.google.com/document/d/1duD0mKjnK5eJka20VJgY-DK_a2k3gigrPG4U546Ma2I/edit) for using VDI is to be found at 
+
+[^1]: OFFICE 365 users: when you click on MS Excel, and a web browser opens up with Excel, you are in the web version. It will not work! Look in the upper right corner for the button to "Install Office" on your desktop/laptop.
