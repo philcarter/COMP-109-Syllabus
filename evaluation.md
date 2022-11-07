@@ -10,19 +10,19 @@ There is a total of 1000 points. Each 10 point represents one percentage of your
 Four tasks worth 0 points. Failure to complete any of those four tasks by the second week of the semester will result in being dropped from the course. 
 
 ### Assignments 
-24 activities each worth between 15 and 30 points for a total of 700 points.
-   *   12 Textbook Projects 15 points each
-   *   12 Discussions 15 points each 
-   *   2 SAM Training 20 points each 
-   *   10 SAM Projects 30 points each
+40 activities each worth between 15 and 35 points for a total of 760 points.
+   *   8 Textbook Lessons 15 points each
+   *   16 End of Module activities 
+   *   8 SAM Training 20 points each 
+   *   8 SAM Projects 30 points each
 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
 ### Tests 
-Each test consists of an exam and a project, each worth between 40 and 60 points for a total of 300 ( Final consists of project only and is worth 100 points). The exams and projects will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
+Each test consists of an exam and a project, each worth between 50 and 70 points for a total of 240. The exams and projects will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
 
 ### Extra Credit
-There will opportunities to earn extra credit for a maximum of 40 points total. Complete end-of-module assignments(2 pts each), participate in the discussions, assist other students with help questions, find errors in text or instructions, follow up with questions. Also each module has one to two short EOM (End of Module) projects. Note: Canvas does not calculate extra credit from an integrated application such as SAM. The Extra Credit has to be assigned as a normal activity in CANVAS first, and after the due date, it has to be zero out the possible points to capture the extra credit correctly. You grade might drop temporarily when you first submit this activity if you did not get the full 2 points, but it will adjust correctly after the due date. 
+There are no scheduled Extra Credit Activities.
 
 ## Course Grade Scale
 
@@ -41,9 +41,3 @@ There will opportunities to earn extra credit for a maximum of 40 points total. 
 | **D** | >= 630 | 1.00 |
 | D- | >= 600 | 0.70 |
 | **F** | >= 0 | 0.00 |
-
-## Groups:
-The tests and assignments are packaged into three groups: 
-- **Introductory**: Modules 1 -  4 and Test 1 
-- **Intermediate**: Modules 5 -  8 and Test 2
-- **Advanced**:     Modules 9 - 12 and Test 3
