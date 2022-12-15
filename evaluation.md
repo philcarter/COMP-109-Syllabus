@@ -21,7 +21,7 @@ Each assessment (1 Midterm and 1 Final) consists of a [capstone] project, worth 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
 
 ### Extra Credit
-   *   8 End of Module activities 5 points each 
+   *   8 End of Module activities 3 points each 
    *   Discussion posts 
 
 ## Course Grade Scale
