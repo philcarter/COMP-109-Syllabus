@@ -25,8 +25,9 @@ The bottom page of the syllabus provides a schedule for your assignments. The fi
    *   Discussion posts 
 
 ## Course Grade Scale
+
 | Letter grade | Points | GPA  |
-|--------|--------||--------|
+|--------|--------|--------|
 | A+ | >= 970 | 4.00 |
 | **A** | >= 930 | 4.00 |
 | A− | >= 900 | 3.70 |
