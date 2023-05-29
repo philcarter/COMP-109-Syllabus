@@ -3,13 +3,13 @@
 [Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
 ## Assignment Descriptions:
-**Training** is an interactive training activity for each module. Each training is worth 1% of your total grade.(Plan 1 hour)
+**Training** is an interactive training activity for each module.(Plan 1 hour)
 
-**Lesson** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. Each lesson is worth 1% of your grade. This assignment will take most of your time every week. Average is about 2 to 3 hours. (Plan 4 hours)  
+**Lesson** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts, and it is normally due on Mondays. Other assignments listed below will be due later that same week. This assignment will take most of your time every week. Average is about 2 to 3 hours. (Plan 4 hours)  
 
-**End of Module** are End-of-Module (EOM) projects that echo the language and pedagogy of textbook narrative activities. Each module include two EOM projects, each covering approximately 50% of the gradable module objectives (more than 90% of module objectives between the 2 EOM projects). They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course. These projects are used as additional practice. The first EOM is worth 2% of your grade and the second EOM is graded as Extra Credit (Plan 1 hour)
+**End of Module** are End-of-Module (EOM) projects that echo the language and pedagogy of textbook narrative activities. Each module include two EOM projects, each covering approximately 50% of the gradable module objectives (more than 90% of module objectives between the 2 EOM projects). They take approximately 20-30 minutes to complete; the time will vary by student and number of steps of course. These projects are used as additional practice. (Plan 1 hour)
 
-**Project** measure students’ mastery of module learning objectives. Each project covers over 90% of the gradable module objectives. These projects will be the main resource to prepare you for the three semester Capstone Projects. Each project is worth 5% of your grade. SAM Projects take approximately 45-60 minutes to complete. (Plan 2 hours) 
+**Project** measure students’ mastery of module learning objectives. Each project covers over 90% of the gradable module objectives. These projects will be the main resource to prepare you for the two semester Capstone Projects. SAM Projects take approximately 45-60 minutes to complete. (Plan 2 hours) 
 
 **Capstone** projects measure students’ mastery of learning objectives across multiple modules. Each Capstone project covers key skills across the full level of modules. They take approximately 50-75 minutes to complete; the time will vary by student and number of steps. SAM Capstone Projects are used as rigorous assessments for the Tests Modules, and each one is worth 10%.(Plan 2 hours)  
 
