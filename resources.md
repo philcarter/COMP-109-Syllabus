@@ -46,7 +46,7 @@ A fully **installed** Microsoft Excel version is required to complete online pr
 
 SBCC Students have access to install Microsoft Office products via SBCC Pipeline for free. Please see the Business Computer Lab for help, or you also may schedule a zoom session with me.  
 
-> macOS: This course does not officially support MS Excel with an Apple/Mac OS. Some project steps are different on Microsoft Excel for Mac. Instructions may include Mac accomadations for students, but features such as Power Query or Power Pivot are not available on Excel for Mac. SBCC Students who have an Apple computer, may also have access to a SBCC Virtual Desktop that has Microsoft Windows and MS Office 2021 installed or may install Windows 10 as an additional operating system on their computer. 
+> macOS: This course does not officially support MS Excel with an Apple/Mac OS. Some project steps are different on Microsoft Excel for Mac. Instructions may include Mac accommodations for students, but features such as Power Query or Power Pivot are not available on Excel for Mac. SBCC Students who have an Apple computer, may also have access to a SBCC Virtual Desktop that has Microsoft Windows and MS Office 2021 installed or may install Windows 10 as an additional operating system on their computer. 
 
 If you do not have the recommended operating system and office version, you should consider either using the Business Communication labs on SBCC main campus, or using our SBCC Virtual Desktop Infrastructure(VDI). Here are the [instructions](https://docs.google.com/document/d/1duD0mKjnK5eJka20VJgY-DK_a2k3gigrPG4U546Ma2I/edit) for using VDI. 
 
