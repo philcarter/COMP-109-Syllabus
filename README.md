@@ -28,8 +28,9 @@
 <a href="https://www.sbcc.edu/calendar/" target="_blank">SBCC Academic Calendar</a>
 ##### Get Started
 <a href="http://www.sbcc.edu/distanceeducation/distanceedorientation.php" target="_blank">Is an Online Class For You?</a> |
-<a href="https://canvas.sbcc.edu/courses/33499/modules#module_130896" target="_blank">New to Canvas or SAM?</a> |
-<a href="https://canvas.sbcc.edu/courses/33499/modules#module_124518" target="_blank">Getting Started with Excel</a> |
-<a href="https://canvas.sbcc.edu/courses/33499/discussion_topics/292342" target="_blank">New to Canvas or SAM?</a>
+<a href="https://canvas.sbcc.edu/courses/55691/modules/280471" target="_blank">Student Orientation</a> |
+<a href="https://canvas.sbcc.edu/courses/55691/modules/281671" target="_blank">CANVAS Student Tutorials</a> |
+<a href="https://canvas.sbcc.edu/courses/55691/modules/281670" target="_blank">SAM (Cengage Digital Resources)</a> |
+<a href="https://canvas.sbcc.edu/courses/55691/modules/282244" target="_blank">Student Support Resources</a>
 
 > Hint: To print any of these pages, please CTRL-CLICK on a link to create a printable version in a new tab.
