@@ -21,10 +21,8 @@
 <a href="https://philcarter.github.io/COMP-109-Syllabus/planning.html#late-submissions">Late Submissions</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/planning.html#emergency-extensions">Emergency Extensions</a>
 ##### <a href="https://philcarter.github.io/COMP-109-Syllabus/important.html">Important</a>
+<a href="https://philcarter.github.io/COMP-109-Syllabus/important.html#academic-integrity">Academic Integrity</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/important.html#students-with-disabilities">Students with Disabilities</a> | 
-<a href="https://philcarter.github.io/COMP-109-Syllabus/important.html#academic-honesty">Academic Honesty</a> | 
-<a href="https://philcarter.github.io/COMP-109-Syllabus/important.html#appropriate-behavior">Appropriate Behavior</a> | 
-<a href="http://www.sbcc.edu/security/standards_of_conduct.php" target="_blank">SBCC Student Code of Conduct</a> | 
 <a href="https://www.sbcc.edu/calendar/" target="_blank">SBCC Academic Calendar</a>
 ##### Get Started
 <a href="http://www.sbcc.edu/distanceeducation/distanceedorientation.php" target="_blank">Is an Online Class For You?</a> |
