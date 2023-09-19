@@ -40,7 +40,7 @@ You engagne in fairness by doing your own original work, acknowledging borrowed 
 ### Respect
 You show respect when you value and take advantage of opportunities to gain new knowledge by taking an active role in your own education, contributing to discussions, actively listening to other points of view, and performing to the best of your ability.
 
-**Ways to demonstrate fairness:**
+**Ways to demonstrate respect:**
 
 -   Practice active listening
 -   Receive feedback willingly
