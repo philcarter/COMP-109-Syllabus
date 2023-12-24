@@ -4,21 +4,21 @@
 [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Extra Credit](#extra-credit) | [Grading](#course-grade-scale)
 
 ## Total Points 
-There is a total of 1000 points. Each 10 point represents one percentage of your total grade!
+There is a total of 1000 points. Each 10 points represents one percent of your total grade!
 
 ### Orientation
-Four tasks worth 5 points total. Failure to complete any of those four tasks by the second week of the semester will result in being dropped from the course. 
+Four tasks are worth 5 points but are not part of the final grade. Please complete those four tasks by the second week of the semester to avoid being dropped from the course. 
 
 ### Exams 
-Each assessment (1 Midterm and 1 Final) consists of a [capstone] project, worth 100 points for a total of 200. The projects will be objective in nature and designed to test your understanding of terminology as well as skill development. The exams will be administered online using SAM and expected to follow the code of conduct for academic honesty.
+Each assessment (1 Midterm and 1 Final) consists of a [capstone] project worth 100 points for a total of 200. The projects will be objective and designed to test your understanding of terminology and skill development. The exams will be administered online using SAM and are expected to follow the code of conduct for academic honesty.
 
 ### Assignments 
-40 activities each worth between 15 and 45 points for a total of 800 points.
-   *   9 SAM Training 15 points each 
-   *   9 Textbook Lessons 15 points each
-   *   8 End of Module activities 15 points each 
-   *   9 SAM Projects 45 points each
-The bottom page of the syllabus provides a schedule for your assignments. The files for the assignments have specific deadlines. In order to get credit for the assignments, you must complete all of the work listed for that assignment. You will submit each week two assignments.
+Forty activities, each worth between 10 and 40 points, totaling 800 points.
+   *   4 SAM Training, 10 points each 
+   *   12 Textbook Lessons, 20 points each
+   *   12 End of Module activities, 10 points each 
+   *   12 SAM Projects, 20-40 points each
+The bottom page of the syllabus provides a schedule for your assignments. The files for the tasks have specific deadlines. To get credit for the assignments, you must complete all of the work listed for that assignment.
 
 ### Extra Credit
    *   8 End of Module activities 5 points each.  
