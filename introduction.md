@@ -2,17 +2,34 @@
 ***
 [Course Description](#course-description) | [Course Objectives](#course-objectives) | [Student Learning Outcomes](#student-learning-outcomes) | [Online Format](#online-format) | [Glossary](#glossary)
 
-## Welcome to Microsoft Excel 2019!
+## Welcome to Microsoft Excel 2021!
 * Instructor: Phil Carter
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu).[^1]
-* Office Hours: Thursdays, 5:00 pm to 6:30pm.[^2]
-* Office: [Video Conference (Zoom)](https://sbcc.zoom.us/j/8499530488).[^3]
+* Office Hours: Mon - Thu, 7:00 pm to 8:00pm.[^2]
+* Office: [Video Conference (Zoom)](https://sbcc.zoom.us/j/8499530488).
+
+* <!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0ILlxurEFafboTvSeXG41QIgNfZVtB9ysV5Po7kAdGP9qGnEddBtQJzMtFIej51fWR474z5UsG?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
 
 Note:  
 
 [^1]: Please use CANVAS inbox for messaging. Do not use my email account unless there is an emergency.
-[^2]: Please let me know via Canvas messaging no later then 9:00pm the night before so that I know to expect you. Also include the topic/assignment/issue you want to discuss. 
-[^3]: I can also meet on campus by appointment on Wednesday or Friday. (Not Applicable in 2022)
+[^2]: Please schedule your appointments a minimum of 24 hours prior. Also include the topic/assignment/issue you want to discuss.  
 
 ## Course Description
 Comp 109 covers core spreadsheet skills using Microsoft Excel and also introduces the student to some of the advanced features of Excel, including functions and formulas, creating workbooks/worksheets, formatting, graphs and charts.
