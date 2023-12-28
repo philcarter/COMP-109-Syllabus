@@ -7,27 +7,6 @@
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu).[^1]
 * Office Hours: Mon - Thu, 7:00 pm to 8:00pm.[^2]
 * Office: [Video Conference (Zoom)](https://sbcc.zoom.us/j/8499530488).
-
-* <!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0ILlxurEFafboTvSeXG41QIgNfZVtB9ysV5Po7kAdGP9qGnEddBtQJzMtFIej51fWR474z5UsG?gv=true',
-      color: '#039BE5',
-      label: 'Book an appointment',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
-
-Note:  
-
 [^1]: Please use CANVAS inbox for messaging. Do not use my email account unless there is an emergency.
 [^2]: Please schedule your appointments a minimum of 24 hours prior. Also include the topic/assignment/issue you want to discuss.  
 
@@ -85,3 +64,5 @@ Although COMP 109 is designed for Excel beginners, you probably should feel some
 **M01:M12** - Short form for textbook Excel MODULES such as Excel Module 1 (M01)
 
 **T01:T02** - Short form for the TEST modules and consists of a SAM capstone project.
+
+Note:
