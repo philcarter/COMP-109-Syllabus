@@ -6,7 +6,7 @@
 * Instructor: Phil Carter
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu).[^1]
 * Office Hours: Mon - Thu, 7:00 pm to 8:00pm.[^2]
-* Office: [Video Conference (Zoom)](https://sbcc.zoom.us/j/8499530488).
+* [Office Appointments](https://calendar.google.com/calendar/appointments/schedules/AcZssZ0ILlxurEFafboTvSeXG41QIgNfZVtB9ysV5Po7kAdGP9qGnEddBtQJzMtFIej51fWR474z5UsG?gv=true).
   
 [^1]: Please use CANVAS inbox for messaging. Do not use my email account unless there is an emergency.
 [^2]: Please schedule your appointments a minimum of 24 hours prior. Also include the topic/assignment/issue you want to discuss.  
