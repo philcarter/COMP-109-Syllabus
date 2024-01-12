@@ -7,7 +7,7 @@
 There is a total of 1000 points. Each 10 points represents one percent of your total grade!
 
 ### Orientation
-Four tasks are worth 5 points but are not part of the final grade. Please complete those four tasks by the second week of the semester to avoid being dropped from the course. 
+Five tasks are worth 5 points but are not part of the final grade. Please complete those five tasks by the second week of the semester to avoid being dropped from the course. 
 
 ### Exams 
 Each assessment (1 Midterm and 1 Final) consists of a [capstone] project worth 100 points for a total of 200. The projects will be objective and designed to test your understanding of terminology and skill development. The exams will be administered online using SAM and are expected to follow the code of conduct for academic honesty.
