@@ -30,7 +30,7 @@ COMP 109 is an introductory course that presupposes no prior knowledge of Excel.
 
 On completion of the course, you will have gone beyond beginning core skills to acquire intermediate and advanced skills as defined by the MCAS certification program.
 
-With further review and practice you will be ready to sit for the Microsoft Certified Application Specialist certification (MCAS) for Excel 2019. This nationally recognized certification provides a way to demonstrate your expertise and qualifications to employers.
+With further review and practice you will be ready to sit for the Microsoft Certified Application Specialist certification (MCAS) for Excel 2021. This nationally recognized certification provides a way to demonstrate your expertise and qualifications to employers.
 
 ## Student Learning Outcomes
 Upon successfully completing this class, a student will be able to accomplish the technical tasks listed below:
