@@ -47,7 +47,7 @@ There are NO on-campus meetings.
 
 You must have the correct software installed and a correctly configured computer to take the class.
 
-It is essential that you have Excel 2019 installed on your computer by the first day of class.
+It is essential that you have Excel 2021 installed on your computer by the first day of class.
 
 Although COMP 109 is designed for Excel beginners, you probably should feel somewhat comfortable with your computer prior to beginning the course.
 
