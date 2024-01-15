@@ -2,6 +2,9 @@
 ***
 [Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
+## How much time do I have to spend on this course?
+The answer to this question depends on you. We all learn at a different pace, but on average, you should spend between 3 and 4.5 hours each week on the submissions. But at the beginning of the semester, I suggest planning for seven hours per week. Each week, you will submit three assignments, each with its due date (Sundays, Tuesdays, & Thursdays).  The three due days help you plan and keep you on pace. You may schedule your week differently, completing assignments earlier.
+
 ## Assignment Descriptions:
 **Training** is an interactive training activity for each module.(Plan 1 hour)
 
