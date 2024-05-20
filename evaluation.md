@@ -14,10 +14,10 @@ Each assessment (1 Midterm and 1 Final) consists of a [capstone] project worth 1
 
 ### Assignments 
 Forty activities, each worth between 20 points, totaling 800 points.
-   *   4 SAM Training, 20 points each 
-   *   12 Textbook Lessons, 20 points each
-   *   12 Q&A activities, 20 points each 
-   *   12 SAM Projects, 20 points each
+   *   4 SAM Training
+   *   12 Textbook Lessons
+   *   12 Q&A activities 
+   *   12 SAM Projects
 The bottom page of the syllabus provides a schedule for your assignments. The files for the tasks have specific deadlines. To get credit for the assignments, you must complete all of the work listed for that assignment.
 
 ### Extra Credit
