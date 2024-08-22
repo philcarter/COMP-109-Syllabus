@@ -21,8 +21,7 @@ Forty activities, each worth between 20 points, totaling 800 points.
 The bottom page of the syllabus provides a schedule for your assignments. The files for the tasks have specific deadlines. To get credit for the assignments, you must complete all of the work listed for that assignment.
 
 ### Extra Credit
-   *   12 End of Module activities 2.5 points each.  
-   *   Discussion posts 
+   *   There are no extra credit assignments.
 
 ## Course Grade Scale
 
