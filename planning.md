@@ -3,22 +3,26 @@
 [Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
 ## How much time do I have to spend on this course?
-The answer to this question depends on you. We all learn at a different pace, but on average, you should spend between 3 and 4.5 hours each week on the submissions. But at the beginning of the semester, I suggest planning for seven hours per week. Each week, you will submit three assignments, each with its due date (Sundays, Tuesdays, & Thursdays).  The three due days help you plan and keep you on pace. You may schedule your week differently, completing assignments earlier.
+The answer to this question depends on you. We all learn at a different pace, but on average, you should spend between five and six hours each week on the submissions. But at the beginning of the semester, I suggest planning for at least eight hours per week. Each week, you will submit three to four activities, with one to two due either Mondays or Thursdays. The two due days help you plan and keep you on pace. You may schedule your week differently, completing assignments earlier, something I would highly recommend.
 
 ## Assignment Descriptions:
-**Training** is an interactive training activity for each module.(Plan 1 hour)
 
 **Lesson** is created from existing Cengage textbook content. It is designed to promote chapter reading that introduces you to new skills and concepts. This assignment will take most of your time every week. The average is about 2 to 3 hours. (Plan 4 hours)  
-
-**End of Module** are End-of-Module (EOM) projects that echo the language and pedagogy of textbook narrative activities. Each module includes two EOM projects, each covering approximately 50% of the gradable module objectives (more than 90% of module objectives between the 2 EOM projects). They take about 20-30 minutes to complete; the time will vary by student and number of steps. These projects are used as additional practice. (Plan 1 hour)
 
 **Project** measures students’ mastery of module learning objectives. Each project covers over 90% of the gradable module objectives. These projects will be the primary resource to prepare you for the two Capstone Projects. SAM Projects take approximately 45-60 minutes to complete. (Plan 2 hours) 
 
 **Capstone** projects measure students’ mastery of learning objectives across multiple modules. Each Capstone project covers vital skills across the group level of modules. They take approximately 50-75 minutes to complete; the time will vary by student and number of steps. SAM Capstone Projects are used as rigorous assessments for the test modules, each worth 10%. (Plan 2 hours)  
 
+**Training** is an interactive training activity for each module.(Plan 1 hour)
+
+**Quick Check** are session review questions taken from the textbook. The activity will require submitting five answers. They take about 20-30 minutes to complete; the time will vary by student. These questions are used to support the textbook material. (Plan 1 hour)
+
+**Peer Review** are activities that allows students to review the Quick Check answers by other students. They take about 20-30 minutes to complete; the time will vary by student. (Plan 1 hour)
+
+**Progress Review** is a check-in questionnaire. This allows you and your instructor to communicate your progress (Plan 1 hour)
+
 ## Test Schedule:
-Capstone projects are available for six days! All submissions are on time for tests!
-Please check the Modules for Test 1 for the exact available and due dates! Test 2 - Capstone Project is due on the Tuesday of the Finals Week at 8:59 pm. 
+There is one midterm and one final exam. These are Capstone projects and are available for six days! Please check the Modules for Test 1 for the exact available and due dates! Test 2 - Capstone Project is due on the Monday of the Finals Week at 11:59 pm. There are no late submissions allowed for exams.
 
 ## Late Submissions
 **Prepare properly and help avoid panic and penalties**
@@ -29,7 +33,7 @@ Now, I understand that everyone has the occasional problem and finishes their wo
 
 So here is my compromise going forward:
 
-**Due Dates are generally set for Tuesdays, Thursdays, and Sundays, 8:59 pm Pacific Time. The late submission period is six days! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that, all late work will be marked 0.
+**Due Dates are generally set for Mondays and Thursdays, 11:59 pm Pacific Time. The late submission period is six days! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that, all late work will be marked 0.
 
 Make sure you know when your assignments are due. Plan your work so that you can meet the submission deadlines. Consult your syllabus, ask in the module Discussion forums, or message me via inbox if you need clarification on an assignment/assessment deadline and submission procedures.
 
