@@ -21,7 +21,7 @@ Forty activities, each worth between 15 - 20 points, totaling 800 points.
 The bottom page of the syllabus provides a schedule for your assignments. The files for the tasks have specific deadlines. To get credit for the assignments, you must complete all of the work listed for that assignment.
 
 ### Extra Credit
-   *   There are no extra credit assignments.
+   * There are three extra credit projects, available towards the end of the semester. (20pts each)
 
 ## Course Grade Scale
 
