@@ -5,7 +5,7 @@
 ## Welcome to Microsoft Excel 2021!
 * Instructor: Phil Carter
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu).[^1]
-* Office Hours: Mon - Thu, 3:30 pm to 4:30pm.[^2]
+* Office Hours: Mon - Thu, 11:30am - 12:00pm & 3:30 pm to 4:30pm.[^2]
 * [Office Appointments](https://calendar.app.google/ndEXJp4hs9sLUPww7).
   
 [^1]: Please use CANVAS inbox for messaging. Do not use my email account unless there is an emergency.
