@@ -13,15 +13,15 @@ Five tasks are worth 5 points but are not part of the final grade. Please comple
 Each assessment (1 Midterm and 1 Final) consists of a [capstone] project worth 100 points for a total of 200. The projects will be objective and designed to test your understanding of terminology and skill development. The exams will be administered online using SAM and are expected to follow the code of conduct for academic honesty.
 
 ### Assignments 
-Forty activities, each worth between 15 - 20 points, totaling 800 points.
+Forty activities, each worth between 10 - 20 points, totaling 800 points.
    *    4 SAM Training (20pts each)
    *   12 Textbook Lessons (20pts each)
    *    9 SAM Projects (20pts each)
-   *   20 "Classroom" activities (15pts each) 
+   *   20 "Classroom" activities (10 - 20pts each) 
 The bottom page of the syllabus provides a schedule for your assignments. The files for the tasks have specific deadlines. To get credit for the assignments, you must complete all of the work listed for that assignment.
 
 ### Extra Credit
-   * There are three extra credit projects, available towards the end of the semester. (20pts each)
+   * There are three extra credit projects, available towards the end of the semester. (20pts each but can not exceed 5% of total grade)
 
 ## Course Grade Scale
 
