@@ -85,4 +85,12 @@ If you have already registered with DSPS, please submit your accommodation reque
 Complete this process in a timely manner to allow adequate time to provide accommodations.
 
 DSPS is located in the Student Services (SS) Building, Room 160. 
-Contact the DSPS office (805-965-0581 ext. 2364; email: [dspshelp@sbcc.edu](mailto:dspshelp@sbcc.edu)   
+Contact the DSPS office 805-730-4164; email: [dspsp@sbcc.edu](mailto:dsps@sbcc.edu)   
+
+## Acomodaciones para estudiantes con discapacidades
+Los Programas y Servicios para Estudiantes con Discapacidades (DSPS) coordinan todas las adaptaciones académicas para los estudiantes con incapacidades documentadas en Santa Barbara City College. Si usted tiene, o cree que podría tener una discapacidad que afecta a su experiencia educativa en esta clase, póngase en contacto con DSPS para determinar si califica para servicios. 
+
+Si ya está registrado en DSPS envíe las solicitudes de adaptación a través del ‘DSPS Online Services Student Portal’ tan pronto como sea posible. Debe completar este proceso cada término académico. Si tiene alguna pregunta o duda acerca de sus acomodaciones, haga una cita con un consejero de DSPS. 
+
+Complete este proceso de una manera oportuna para permitir el tiempo necesario para ofrecer la debida acomodación.
+Puede comunicarse por teléfono al 805-730-4164; o mandar un correo electrónico a [dspsp@sbcc.edu](mailto:dsps@sbcc.edu).
