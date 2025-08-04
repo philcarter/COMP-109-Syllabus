@@ -1,6 +1,6 @@
 ##### [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | Important
 ***
-[Academic Integrity](#academic-integrity) | [Students with Disabilities](#students-with-disabilities) 
+[Academic Integrity](#academic-integrity) | [Students with Disabilities](#students-with-disabilities) | [Acomodaciones para estudiantes con discapacidades](#students-with-disabilities) 
 
 ## Academic Integrity[^1]
 Academic Integrity is a commitment to six fundamental values: honesty, trust, fairness, respect, responsibility, and courage.
