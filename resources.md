@@ -5,13 +5,15 @@
 ## Textbook & Access Code 
 
 ### Inclusive Access
-Inclusive Access (IA) is the digital format of a textbook in place of a physical textbook as your required material and provides you with instant, digital access to the textbook or courseware on the first day of class. The material is available through a link (SBCC Digital Courseware) in your class Canvas page. You will have until February 8, 2024 to "opt out" of Inclusive Access and obtain the material required on your own. 
+Inclusive Access (IA) is the digital format of a textbook in place of a physical textbook as your required material. It provides you with instant full digital access to the textbook and courseware on the first day of class. The material is available through a link (SBCC Digital Courseware) in your class Canvas page. 
 
-If you do not opt out by the deadline, you will be invoiced by the Campus Store in 5 -10 business days after the deadline. You will be able to pay for the material through your Pipeline portal after the census date. Pricing and book information will be at the bottom of the "Welcome to IA" you will receive through your pipeline email.
+**Please see the “Welcome to IA” email for the exact opt-out deadline.** You will have until the deadline to "opt out" of Inclusive Access and obtain the material required on your own.
 
-**If you have a book grant or scholarship through the SBCC Campus Store, do not opt out, your grant will be charged.**
+If you do not opt out by the deadline, you will receive an invoice from the Campus Store in 5 -10 business days after the deadline. You will be able to pay for the material through your student portal (my.sbcc.edu) after the census date. Pricing and book information will be at the bottom of the "Welcome to IA" you will receive through your SBCC email.
 
-For questions regarding IA access please contact Peter Yuen - Textbook Coordinator at pjyuen@pipeline.sbcc.edu.
+**If you have a book grant or scholarship through the SBCC Campus Store, do not opt out; your grant will pay for your textbook.**
+
+For questions regarding IA access, please contact Peter Yuen, Textbook Coordinator, at pjyuen@pipeline.sbcc.edu.
 
 #### Inclusive Access-Course Materials Will Be Available Through Canvas 1st Day Of Class
  - Title: **IA - SAM Office 365/2021 Assessments, Training and Projects with access to eBook, 1 term**  Price:~**$102.50** 
