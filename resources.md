@@ -16,7 +16,7 @@ If you do not opt out by the deadline, you will receive an invoice from the Camp
 For questions regarding IA access, please contact Peter Yuen, Textbook Coordinator, at pjyuen@pipeline.sbcc.edu.
 
 #### Inclusive Access-Course Materials Will Be Available Through Canvas 1st Day Of Class
- - Title: **IA - SAM Office 365/2021 Assessments, Training and Projects with access to eBook, 1 term**  Price:~**$102.50** 
+ - Title: **IA - SAM Office 365/2021 Assessments, Training and Projects with access to eBook, 1 term**  
  - Authors: **SAM**
  - ISBN13: **978-0-357-67746-9**
  - **©2023 Cengage**
