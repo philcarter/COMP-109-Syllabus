@@ -15,7 +15,7 @@
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#Orientation">Tasks</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#extra-credit">Extra Credit</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#course-grade-scale">Grading</a>
-##### <a href="https://philcarter.github.io/COMP-109-Syllabus/planning.html">Planning</a>
+##### <a href="https://philcarter.github.io/COMP-109-Syllabus/planning.html">Expections</a>
 <a href="https://philcarter.github.io/COMP-109-Syllabus/planning.html#assignment-descriptions">Descriptions</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/planning.html#test-schedule">Test Schedule</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/planning.html#late-submissions">Late Submissions</a> | 
