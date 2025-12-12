@@ -1,4 +1,4 @@
-##### [Introduction](introduction) | Resources | [Evaluation](evaluation) | [Planning](planning) | [Important](important)
+##### [Introduction](introduction) | Resources | [Evaluation](evaluation) | [Expectations](expectations) | [Important](important)
 ***
 [Textbook](#textbook) | [System Requirements](#system-requirements)
 
