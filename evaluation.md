@@ -1,4 +1,4 @@
-##### [Introduction](introduction) | [Resources](resources) | Evaluation | [Planning](planning) | [Important](important)
+##### [Introduction](introduction) | [Resources](resources) | Evaluation | [Expectations](expectations) | [Important](important)
 ***
 
 [Assignments](#assignments) | [Tests](#tests) | [Tasks](#Orientation)| [Extra Credit](#extra-credit) | [Grading](#course-grade-scale)
