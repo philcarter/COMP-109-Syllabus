@@ -1,9 +1,12 @@
-##### [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | Planning | [Important](important)
+##### [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | Expectations | [Important](important)
 ***
-[Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
+[Planning](#How-much-time-do-I-have-to-spend-on-this-course) | [Instructor Expectations](#what-can-I-expect-from-my-instructor) |[Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
 
 ## How much time do I have to spend on this course?
 The answer to this question depends on you. We all learn at a different pace, but on average, you should spend between five and six hours each week on the submissions. But at the beginning of the semester, I suggest planning for at least eight hours per week. Each week, you will submit three to four activities, with one to two due either Mondays or Thursdays. The two due days help you plan and keep you on pace. You may schedule your week differently, completing assignments earlier, something I would highly recommend.
+
+## What can I expect from my instructor?
+Staying connected is integral to this course. As your instructor, I’ll regularly communicate with you through Canvas announcements, messages, discussions, and assignment feedback throughout the term. I respond to Canvas messages and phone calls within 24 hours on weekdays (Monday–Friday, 9:00 AM–5:00 PM). You can expect feedback on assignments within 7 days after the due date, unless I let you know otherwise. To stay on track, please submit assignments by their posted deadlines, check Canvas often for updates, and actively participate in discussion boards by posting on time and responding to classmates as described in each module. These expectations are shared from the first day of class to help support your learning and success.
 
 ## Assignment Descriptions:
 
