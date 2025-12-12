@@ -1,9 +1,6 @@
 You’re welcome to schedule a virtual office appointment with me through [Office Appointments](https://calendar.app.google/ndEXJp4hs9sLUPww7). My office hours are **Monday–Thursday from 11:30 AM–12:00 PM and 3:30–4:30 PM**. If those times don’t work for you, just send me a message through the **Canvas Inbox**, and we can set up a different time. I respond to messages within 24 hours on weekdays (**Monday–Friday, 9:00 AM–5:00 PM**).
 
 You can also call my office at **(805) 892-3700**. If I’m available, I’ll answer the call; if not, please leave a voicemail and I’ll get back to you within 24 hours on weekdays.
-
-You can also call my office at (805) 892-3700. If I’m available, I’ll answer the call; if not, please leave a voicemail and I’ll get back to you within 24 hours.
-
 <!--![Power-USER-Mastering-MS-Excel-Banner.jpg](/images/Power-USER-Mastering-MS-Excel-Banner.jpg)-->
 
 ##### <a href="https://philcarter.github.io/COMP-109-Syllabus/introduction.html">Introduction</a>
