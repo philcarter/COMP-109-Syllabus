@@ -1,3 +1,3 @@
-You may schedule a virtual office appointment with me at [Office Appointments](https://calendar.app.google/ndEXJp4hs9sLUPww7). My Office Hours are Mon - Thu, 11:30am - 12:00pm & 3:30 pm to 4:30pm. 
-If that schedule does not work for you, send me a message via the Canvas Inbox, and setup a different timeslot. I respond to all messages within 24 hours Monday through Friday (9:00 AM to 5:00 PM). 
-You may also call my office number at (805) 892-3700, and I will answer if I am not in a meeting. Otherwise leave a voicemail and I will call you back within 24 hours. 
+You’re welcome to schedule a virtual office appointment with me through [Office Appointments](https://calendar.app.google/ndEXJp4hs9sLUPww7). My office hours are **Monday–Thursday from 11:30 AM–12:00 PM and 3:30–4:30 PM**. If those times don’t work for you, just send me a message through the **Canvas Inbox**, and we can set up a different time. I respond to messages within 24 hours on weekdays (**Monday–Friday, 9:00 AM–5:00 PM**).
+
+You can also call my office at **(805) 892-3700**. If I’m available, I’ll answer the call; if not, please leave a voicemail and I’ll get back to you within 24 hours on weekdays.
