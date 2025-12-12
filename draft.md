@@ -1,4 +1,4 @@
-##### [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Planning](planning) | Important
+##### [Introduction](introduction) | [Resources](resources) | [Evaluation](evaluation) | [Expectations](expectations) | Important
 ***
 [Academic Integrity](#academic-integrity) | [Students with Disabilities](#students-with-disabilities) 
 
