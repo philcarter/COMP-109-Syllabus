@@ -10,6 +10,10 @@
 <a href="https://philcarter.github.io/COMP-109-Syllabus/resources.html#textbook">Textbook</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/resources.html#system-requirements">System Requirements</a>
 ##### <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html">Evaluation</a>
+[Planning](#How-much-time-do-I-have-to-spend-on-this-course) | [Instructor Expectations](#what-can-I-expect-from-my-instructor) |[Descriptions](#assignment-descriptions) | [Test Schedule](#test-schedule) | [Late Submissions](#late-submissions) | [Emergency Extensions](#emergency-extensions)
+
+<a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#assignments">Planning</a> | 
+<a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#assignments">Instructor Expectations</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#assignments">Assignments</a> | 
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#tests)">Tests</a> |
 <a href="https://philcarter.github.io/COMP-109-Syllabus/evaluation.html#Orientation">Tasks</a> | 
