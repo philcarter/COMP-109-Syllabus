@@ -16,16 +16,14 @@ Staying connected is integral to this course. As your instructor, I’ll regular
 
 **Capstone** projects measure students’ mastery of learning objectives across multiple modules. Each Capstone project covers vital skills across the group level of modules. They take approximately 50-75 minutes to complete; the time will vary by student and number of steps. SAM Capstone Projects are used as rigorous assessments for the test modules, each worth 10%. (Plan 2 hours)  
 
-**Training** is an interactive training activity for each module.(Plan 1 hour)
+**Training** is an interactive training activity for each module.(Plan 1 hour). Only the first four modules are graded. The remaining training activities are available.
 
 **Quick Check** are session review questions taken from the textbook. The activity will require submitting five answers. They take about 20-30 minutes to complete; the time will vary by student. These questions are used to support the textbook material. (Plan 1 hour)
-
-**Peer Review** are activities that allows students to review the Quick Check answers by other students. They take about 20-30 minutes to complete; the time will vary by student. (Plan 1 hour)
 
 **Progress Review** is a check-in questionnaire. This allows you and your instructor to communicate your progress (Plan 1 hour)
 
 ## Test Schedule:
-There is one midterm and one final exam. These are Capstone projects and are available for six days! Please check the Modules for Test 1 for the exact available and due dates! Test 2 - Capstone Project is due on the Monday of the Finals Week at 11:59 pm. There are no late submissions allowed for exams.
+There is one midterm and one final exam. These are Capstone projects and are available for six days! Please check the Modules for Test 1 for the exact available and due dates! Test 2 - Capstone Project is due on the Monday of the Finals Week at 11:59 pm. There are no late submissions allowed for exams. Note: The final exam does not include material from Module 9 to 12.
 
 ## Late Submissions
 **Prepare properly and help avoid panic and penalties**
@@ -36,7 +34,7 @@ Now, I understand that everyone has the occasional problem and finishes their wo
 
 So here is my compromise going forward:
 
-**Due Dates are generally set for Mondays and Thursdays, 11:59 pm Pacific Time. The late submission period is six days! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that, all late work will be marked 0.
+**Due Dates are generally set for Tuesdays and Thursdays, 11:59 pm Pacific Time. The late submission period is six days! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that, all late work will be marked 0.
 
 Make sure you know when your assignments are due. Plan your work so that you can meet the submission deadlines. Consult your syllabus, ask in the module Discussion forums, or message me via inbox if you need clarification on an assignment/assessment deadline and submission procedures.
 
