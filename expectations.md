@@ -34,7 +34,7 @@ Now, I understand that everyone has the occasional problem and finishes their wo
 
 So here is my compromise going forward:
 
-**Due Dates are generally set for Tuesdays and Thursdays, 11:59 pm Pacific Time. The late submission period is six days! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that, all late work will be marked 0.
+**Due Dates are generally set for Mondays and Thursdays, 11:59 pm Pacific Time. The late submission period is six days! Late submissions without a prior granted extension by me will incur a 5% daily penalty off the grade during the late submission period.** After that, all late work will be marked 0.
 
 Make sure you know when your assignments are due. Plan your work so that you can meet the submission deadlines. Consult your syllabus, ask in the module Discussion forums, or message me via inbox if you need clarification on an assignment/assessment deadline and submission procedures.
 
