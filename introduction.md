@@ -5,7 +5,7 @@
 ## Welcome to Microsoft Excel 2021!
 * Instructor: Phil Carter
 * Email: [carter@sbcc.edu](mailto:carter@sbcc.edu).[^1]
-* Office Hours: Mon - Fri, 10:00am - 11:00am & Sun - Wed 7:00 pm to 8:00pm.[^2]
+* Office Hours: Mon - Fri, 9:00am - 10:00am & Sun 7:00 pm to 8:00pm.[^2]
 * [Office Appointments](https://calendar.app.google/ndEXJp4hs9sLUPww7).
   
 [^1]: Please use CANVAS inbox for messaging. Do not use my email account unless there is an emergency.
@@ -20,8 +20,9 @@ Comp 109 covers core spreadsheet skills using Microsoft Excel and also introduce
 *   Location:                      Online
 *   Skills Advisory:             Eligibility for ENG 110 or ENG 110H
 
-**NOTE**: This being an introductory course has no bearing on the hours required to complete this course successfully. **This is a 4 unit class**. If you were taking this course in a "traditional" format, you would spend approximately four hours in class (textbook project and discussion), and eight hours doing coursework (assignments, SAM training, etc.). **Therefore, expect to spend 8 - 12 hours each week on this course!**
+**NOTE**: Although this is an introductory course, that does not mean it requires less time to complete successfully. This is a 4-unit course. In a traditional 16-week format, you would spend approximately four hours per week in class working on textbook projects and discussions, plus approximately eight hours per week completing coursework such as assignments and SAM training. In other words, you should **expect to spend approximately 8–12 hours each week on this course.** The fact that this is an introductory course does not reduce the amount of time and effort required to successfully complete the course.
 
+For late-start or summer sessions, the same amount of coursework is compressed into a shorter period—for example, a 16-week course may be completed in just 6 weeks. You should therefore expect to spend significantly more time each week to keep up with the accelerated schedule.
 
 ## Course Objectives
 > “Start a beginner, end a power user.”
